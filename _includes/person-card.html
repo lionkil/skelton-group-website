@@ -1,0 +1,29 @@
+{% assign member = include.member %}
+<details class="pm-card">
+  <summary class="pm-card-summary">
+    {% if member.photo and member.photo != '' %}
+    <img class="pm-avatar" src="{{ member.photo | relative_url | replace: ' ', '%20' }}" alt="{{ member.name | escape }}" width="112" height="112">
+    {% else %}
+    <span class="pm-avatar pm-avatar-empty" role="img" aria-label="Photo to be added">
+      <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true" focusable="false">
+        <circle cx="16" cy="11" r="5"></circle>
+        <path d="M6 27c0-6 4-10 10-10s10 4 10 10"></path>
+      </svg>
+    </span>
+    {% endif %}
+    <span class="pm-card-copy">
+      <span class="pm-name">{{ member.name | escape }}</span>
+      <span class="pm-role">{{ member.role | default: 'PhD researcher' | escape }}</span>
+      {% if member.status %}<span class="pm-status{% if member.status == 'Awaiting graduation' %} pm-status-graduation{% endif %}">{{ member.status | escape }}</span>{% endif %}
+    </span>
+    <span class="pm-expand" aria-hidden="true"></span>
+  </summary>
+  <div class="pm-bio">
+    {% if include.bio_heading %}<h3 class="pm-bio-heading">{{ include.bio_heading | escape }}</h3>{% endif %}
+    {% if member.bio and member.bio != '' %}
+    {{ member.bio | markdownify }}
+    {% elsif include.hide_empty_bio != true %}
+    <p class="pm-bio-empty">Biography coming soon.</p>
+    {% endif %}
+  </div>
+</details>

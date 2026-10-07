@@ -1,0 +1,114 @@
+---
+title: Home
+layout: default
+custom_css:
+  - "/assets/css/home.css"
+  - "/assets/css/people.css"
+  - "/assets/css/featured-publications.css"
+---
+
+<div class="home-two">
+  <section class="h2-hero" aria-labelledby="home2-welcome">
+    <div class="h2-introduction">
+      <h2 id="home2-welcome">First-principles materials modelling and structural dynamics</h2>
+      <p class="h2-lead">We are a theory group based in the Department of Chemistry at the University of Manchester, UK.</p>
+      <p>We use a wide variety of theoretical modelling techniques to study materials ranging from inorganic semiconductors and f-element materials to molecular crystals and "hybrid" inorganic/organic systems.</p>
+    </div>
+
+    <figure class="h2-phonons">
+      <div class="h2-phonon-images">
+        <img src="{{ '/assets/images/o-MAPbI3-Mode-036.gif' | relative_url }}" alt="Phonon mode 036 in methylammonium lead iodide" width="314" height="338">
+        <img src="{{ '/assets/images/o-MAPbI3-Mode-040.gif' | relative_url }}" alt="Phonon mode 040 in methylammonium lead iodide" width="314" height="338">
+      </div>
+      <figcaption>
+        <details class="h2-caption">
+          <summary>Lattice vibrations (phonon modes)</summary>
+          <div>
+            <p>Lattice vibrations (phonon modes) in the hybrid halide perovskite methylammonium lead iodide (CH<sub>3</sub>NH<sub>3</sub>)PbI<sub>3</sub> (MAPbI<sub>3</sub>).
+            In this material, the strong coupling between the motion of the PbI<sub>3</sub><sup>-</sup> cage and the MA<sup>+</sup> cation seen here suppresses the thermal conductivity, and this is an important contributor to its remarkable performance as an absorber material in hybrid perovskite solar cells.</p>
+          </div>
+        </details>
+      </figcaption>
+    </figure>
+  </section>
+
+  <div class="h2-overview">
+    <div class="h2-overview-copy">
+    <h2 class="h2-overview-title">Our research</h2>
+    <p>We are particularly interested in the structural dynamics of solids and their effect on material properties.
+    Our work in this area includes understanding the fundamentals of heat transport, devising new engineering strategies to control it, and predicting the structural, mechanical and electrical properties of materials at elevated temperature.
+    We have a long-standing interest in improving materials for energy applications, including thermoelectric power generation and, more recently, photovoltaics and battery materials.
+    We also study f-element materials, with an interest in how their electronic structure influences magnetism and other physical properties.</p>
+    <p>Our work applies and extends established theories to address new problems, with strong focus on making useful methods available to the community through open-source software and on strengthening links between theory and experiment.
+    Infrared and Raman modelling is a particular focus: we predict vibrational spectra to help explain experimental measurements and connect them to atomic structure and dynamics.
+    We regularly work with experimental groups to validate theoretical models and to help get the best insight from measurements.</p>
+    </div>
+    <div class="h2-featured-publications">
+      <h2 class="h2-overview-title" id="featured-publications-title">Featured publications</h2>
+      {% include featured-publications.html %}
+    </div>
+  </div>
+
+  <section class="h2-research" aria-labelledby="home2-research">
+    <h2 id="home2-research">What do we do?</h2>
+    <p class="h2-theme-hint" id="theme-map-help">Click a research theme in the circle to see its scientific question, methods and outputs.</p>
+    <div class="h2-research-layout">
+      <div class="h2-orbit" role="group" aria-label="Research themes" aria-describedby="theme-map-help">
+        <svg class="h2-connections" viewBox="0 0 600 600" fill="none" aria-hidden="true" focusable="false">
+          <circle class="h2-orbit-ring" cx="300" cy="300" r="210"></circle>
+          <path class="h2-spokes" d="M300 300V90M300 300L481.865 405M300 300L118.135 405"></path>
+        </svg>
+        <div class="h2-map-centre"><span>Skelton<br>Research Group</span></div>
+        {% for theme in site.data.research_themes %}
+        <a class="h2-theme-node h2-theme-node-{{ forloop.index }}" id="home2-tab-{{ theme.id }}" href="#home2-panel-{{ theme.id }}">{{ theme.name | escape }}</a>
+        {% endfor %}
+      </div>
+
+      <div class="h2-theme-panels">
+        {% for theme in site.data.research_themes %}
+        <section class="h2-theme-panel" id="home2-panel-{{ theme.id }}" aria-labelledby="home2-title-{{ theme.id }}">
+          <h3 id="home2-title-{{ theme.id }}">{{ theme.name | escape }}</h3>
+          <div class="h2-theme-content">
+            <h4>Scientific question:</h4>
+            <p class="h2-question">{{ theme.question | escape }}</p>
+            <h4>DFT addresses</h4>
+            <ul>
+              {% for item in theme.addresses %}<li>{{ item | escape }}</li>{% endfor %}
+            </ul>
+            <div class="h2-output">
+              <h4>Output</h4>
+              <p>{{ theme.output | escape }}</p>
+            </div>
+            {% if theme.figure %}
+            <figure class="h2-theme-figure">
+              <a class="h2-figure-link" href="{{ theme.figure.src | relative_url | replace: ' ', '%20' }}" target="_blank" rel="noopener" aria-label="View {{ theme.name | escape }} figure at full size (opens in a new tab)">
+                <img src="{{ theme.figure.src | relative_url | replace: ' ', '%20' }}" alt="{{ theme.figure.alt | escape }}" width="{{ theme.figure.width }}" height="{{ theme.figure.height }}" loading="lazy">
+                <span class="h2-figure-enlarge">View full-size figure ↗</span>
+              </a>
+              <figcaption>
+                <details class="h2-caption">
+                  <summary>{{ theme.figure.title | escape }}</summary>
+                  <div><p>{{ theme.figure.caption | escape }}</p></div>
+                </details>
+              </figcaption>
+            </figure>
+            {% endif %}
+          </div>
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+</div>
+
+{% include people.html %}
+
+<div class="home-two">
+  <div class="h2-further">
+    <p>We also have a list of the group <a href="{{ '/publications.html' | relative_url }}">Publications</a> and the open-source <a href="{{ '/software.html' | relative_url }}">Software</a> we maintain.</p>
+    <p>For information about opportunities to join or collaborate with the group, please <a href="{{ '/contact.html' | relative_url }}">contact us</a>.</p>
+  </div>
+</div>
+<script src="{{ '/assets/js/home.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/featured-publications.js' | relative_url }}" defer></script>

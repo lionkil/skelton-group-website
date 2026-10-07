@@ -1,0 +1,138 @@
+# Add each future photo as /assets/images/filename.jpg and biography as Markdown.
+group:
+  - name: Dr Jonathan Skelton
+    role: Principal Investigator
+    photo: /assets/images/People-JonathanSkelton.jpg
+    bio: |
+      Jonathan joined the University of Manchester in 2018 on a Presidential Fellowship and was currnetly holds a UKRI Future Leaders Fellowship.
+
+      He is interested in using modelling to understand how materials with unusual properties "work", which has a habit of leading to large and/or challenging calculations. He is also interested in spectroscopy and occasionally helps experimental collaborators with measurements.
+
+      Jonathan's teaching includes courses on functional molecular materials, phonon theory and applications, and physical chemistry. He also helps design and run computational "experiments" for the 3<sup>rd</sup>-year undergraduate Chemistry labs.
+
+      On the (currently rare) occasions when he is not buried in research and teaching, Jonathan also enjoys cooking, photography and gardening.
+  - name: Dr Joseph Flitcroft
+    role: Postdoctoral Research Fellow
+    photo: /assets/images/People-JosephFlitcroft.jpg
+    bio: |
+      Joe is a PDRA in computational materials chemistry. He obtained a 2.1 degree in Chemistry at the University of Bath, UK (2013) before continuing to a PhD in computational chemistry, also at the University of Bath (2018).
+
+      He has completed several postdoctoral research positions on hybrid thermometric materials, ceria-based "nanozymes" and graphene-based phosphate sensors. He is currently researching chalcogenide and skutterudite-based thermoelectric materials.
+
+      Outside of research, Joe is a keen athlete, specialising in hammer throwing.
+
+themes:
+  - name: Thermoelectrics
+    id: thermoelectrics
+    members:
+      - name: Min Zhang
+        status: Awaiting viva
+        photo: /assets/images/People -Min.jpg
+        bio: |
+          As a Computational Chemistry PhD candidate, Min conducts DFT simulations on chalcogenide and alloy materials, focusing on their electronic and thermal transport properties. She acted as a teaching assistant for chemical engineering laboratory and a computational modelling course.
+
+          She completed her Master's degree in China, where she performed DFT research on metal oxide interfacial catalysis.
+
+          In her spare time, she enjoys hiking and shopping.
+
+      - name: Zhiwu Wang
+        status: Y2
+        photo: /assets/images/People- Zhiwu.jpg
+        bio: |
+          Zhiwu Wang joined the group in 2024 and is currently a second-year PhD student. He obtained his bachelor's degree from Zhejiang Normal University. His research interests lie in the thermoelectric properties of clathrates, with a particular focus on understanding heat and charge transport through first-principles calculations. Before starting his master's degree, he worked on experimental studies of metal-organic framework (MOF) materials during his undergraduate research.
+
+          Beyond academia, Zhiwu is passionate about cooking and has created his own Chinese recipe collection, which currently contains more than 46 dishes and continues to expand. He also enjoys playing badminton and drinking tea.
+      - name: Longwen Xu
+        status: Y2
+        photo: /assets/images/People - Longwen.jpg
+        bio: |
+          Longwen completed his M. Chem. degree at the University of Manchester in 2024.
+
+          He is now working on first-principles study of defects in thermoelectric chalcogenides, using density-functional theory (DFT) simulations to predict the thermoelectric figure of merit (ZT) and to understand how point defects and doping tune the electronic and thermal transport properties of these materials.
+
+          Outside of chemistry, Longwen likes cycling, driving and (*or) drinking.
+      - name: Pranav Mistry
+        status: Y2
+        photo: ""
+        bio: ""
+  - name: Molecular solids
+    id: molecular-solids
+    members:
+      - name: Toby Thompson
+        status: Y4
+        photo: /assets/images/People - Toby.jpeg
+        bio: |
+          Toby has been studying for a PhD at the University of Manchester since 2023. He previously completed an MChem degree in Prof. Mark Wilson's group at Durham University, performing molecular dynamics simulations to understand the phase behaviour of liquid crystals. 
+              
+          His PhD work is focused on the spin dynamics of lanthanide complexes in solution, using numerical simulations to model these otherwise inaccessible processes that are responsible for MRI contrast.
+              
+          In his free time he enjoys hiking, cooking and cinema.
+      - name: Elçin Kahraman
+        status: Y2
+        photo: /assets/images/People -Elcin.jpg
+        bio: |
+          Elçin joined the University of Manchester in 2025 as a PhD student in Chemistry, supported by an EPSRC studentship. Her research focuses on the application of computational modelling to crystal-structure prediction, with an interest in developing efficient and accurate approaches for understanding molecular crystals and pharmaceutical materials.
+
+          Her research combines quantum-mechanical calculations with machine-learning-based modelling to investigate the structural, energetic and vibrational properties of molecular crystals.
+
+          Outside of research, Elçin enjoys music, playing the violin and guitar, photography, travelling and exploring new places.
+  - name: Nuclear materials
+    id: nuclear-materials
+    members:
+      - name: Liutauras Kiltinavicius
+        status: Y2
+        photo: /assets/images/People - Liutauras.jpg
+        bio: |
+          Liutauras joined the group in 2025 and is a second-year PhD student, having completed an MPhys in Physics with Mathematics at the University of Southampton.
+
+          His research uses first-principles modelling to study high-level nuclear waste, with particular interest in supporting experimental Raman and infrared spectroscopy. He is also interested in wasteforms such as zirconolite and disposal MOX, and in using modelling to tackle challenges raised by experimentalists.
+
+          Outside academia, Liutauras goes on the occasional run, strength trains, travels and supports Manchester United.
+      - name: Jonathan Whyte
+        status: Y2
+        photo: /assets/images/People - Jonny.jpg
+        bio: |
+          Jonny is a PhD student at the University of Manchester. His research combines density functional theory (DFT) and machine-learned force fields to understand hydrogen transport in LiH, LiOH and Li2O, with the aim of improving predictions of material ageing. 
+
+          He previously obtained a first-class degree in Physics from the University of Dundee. 
+
+          Outside of physics and chemistry, Jonny’s interests include philosophy, playing games, and travelling and exploring new places.
+
+# Add confirmed current roles and career updates to these biographies.
+past_members:
+  - name: Guanping Li
+    role: Former PhD researcher
+    photo: 
+    bio: "Research fellow at the National University of Singapore"
+  - name: Ioanna Pallikara
+    role: Former PhD researcher
+    photo: /assets/images/People-IoannaPallikara.jpg
+    bio: "Lead Data Scientist in the health industry."
+  - name: Matt Brown
+    role: Former PhD researcher
+    photo: /assets/images/People-MattBrown.jpg
+    bio: "Postdoctoral Research Associate at the University of Manchester."
+  - name: Sophie Guillemot
+    role: Former PhD researcher
+    photo: /assets/images/People-SophieGuillemot.jpg
+    bio: "Postdoctoral Research Associate in France."
+  - name: Alveena Khan
+    role: Former PhD researcher
+    photo: ""
+    bio: "Postdoctoral Research Associate at the University of Manchester, working with Rolls-Royce on fuels performance."
+  - name: Ben Asher
+    role: Former MChem student
+    photo: /assets/images/People-BenAsher.jpg
+    bio: "Consultant in the technology industry."
+  - name: Jiayi Cen
+    role: Former MChem student
+    photo: /assets/images/People-JiayiCen.jpg
+    bio: "Senior Battery Analyst at McKinsey & Company."
+  - name: Jianqin Tang
+    role: Former MSc student
+    photo: /assets/images/People-JianqinTang.jpg
+    bio: "PhD researcher at the University of Oxford."
+  - name: Alex Adolphus
+    role: Former MChem student
+    photo: ""
+    bio: "Corporate Tax Associate at PKF Littlejohn."

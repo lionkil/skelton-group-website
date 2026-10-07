@@ -1,0 +1,22 @@
+title: "The Skelton Research Group"
+description: "First-principles materials modelling and structural dynamics"
+lang: "en-GB"
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: skelton-group/jekyll-theme-slate-mod
+repository: skelton-group/skelton-group.github.io
+
+navbar:
+  - link: index.html
+    text: "Home"
+  - link: publications.html
+    text: "Publications"
+  - link: software.html
+    text: "Software"
+  - link: contact.html
+    text: "Contact"
+
+exclude:
+  - README.md

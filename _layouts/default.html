@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-GB" }}">
+
+<!-- head -->
+
+<head>
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <link rel="canonical" href="{{ site.url }}">
+  <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width,maximum-scale=2">
+
+  <meta property="og:title" content="{{page.title}}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:locale" content="{{ site.lang | default: "en-GB" }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta prpoerty="og:url" content="{{ site.url }}">
+{%- if page.custom_css and page.custom_css.size > 0 %}
+  {% for item in page.custom_css %}
+  <link rel="stylesheet" type="text/css" media="screen" href="{{ item }}">
+  {%- endfor -%}
+{%- endif %}
+{%- if page.custom_js and page.custom_js.size > 0 %}
+  {% for item in page.custom_js %}
+  <script src="{{ item }}"></script>
+  {%- endfor -%}
+{%- endif %}
+</head>
+
+<!-- body -->
+
+<body>
+
+<!-- body: Header -->
+
+<div id="header_wrap" class="outer">
+  <header class="inner">
+    <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+    <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+  </header>
+</div>
+
+{% if site.navbar and site.navbar.size > 0 -%}
+<!-- body: Navigation + Content -->
+
+<div id="navbar_wrap" class="outer">
+  <nav id="navbar" class="inner">
+    <ul>
+    {%- for item in site.navbar %}
+      {%- if item.link and item.text %}
+      <li><a href="{{ item.link }}">{{ item.text }}</a></li>
+      {%- endif %}
+    {%- endfor %}
+    </ul>
+  </nav>
+</div>
+{%- endif %}
+
+<div id="main_content_wrap" class="outer">
+<section id="main_content" class="inner">
+
+{{ content }}
+
+</section>
+</div>
+
+{% unless page.url == '/contact.html' %}
+{% include contact-banner.html %}
+{% endunless %}
+
+<!-- body: Footer  -->
+
+<div id="footer_wrap" class="outer">
+  <footer class="inner">
+    <p>Published with <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/skelton-group/jekyll-theme-slate-mod">Slate-Mod</a> theme</p>
+  </footer>
+</div>
+
+</body>
+
+</html>

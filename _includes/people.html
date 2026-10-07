@@ -1,0 +1,44 @@
+<section class="people-map" id="people" aria-labelledby="people-heading">
+  <header class="pm-intro">
+    <h2 class="pm-description" id="people-heading">Who are we?</h2>
+    <p class="pm-hint">Select a person to explore their biography.</p>
+  </header>
+
+  <section class="pm-group" aria-label="Group members">
+    <div class="pm-group-members">
+      {% for member in site.data.people.group %}
+      {% include person-card.html member=member %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <div class="pm-branches">
+    {% for theme in site.data.people.themes %}
+    <section class="pm-theme" aria-labelledby="{{ theme.id }}">
+      <header class="pm-theme-header">
+        <span class="pm-node" aria-hidden="true"></span>
+        <p class="pm-theme-index">Research theme</p>
+        <h3 id="{{ theme.id }}">{{ theme.name | escape }}</h3>
+        <p class="pm-theme-count">{{ theme.members.size }} PhD researchers</p>
+      </header>
+      <div class="pm-theme-members">
+        {% for member in theme.members %}
+        {% include person-card.html member=member %}
+        {% endfor %}
+      </div>
+    </section>
+    {% endfor %}
+  </div>
+
+  <section class="pm-alumni" aria-labelledby="past-members">
+    <header class="pm-alumni-heading">
+      <h2 id="past-members">Past members</h2>
+      <p>Meet the people who have been part of the group.</p>
+    </header>
+    <div class="pm-alumni-members">
+      {% for member in site.data.people.past_members %}
+      {% include person-card.html member=member bio_heading="Where they are now" hide_empty_bio=true %}
+      {% endfor %}
+    </div>
+  </section>
+</section>

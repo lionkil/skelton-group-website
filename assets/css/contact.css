@@ -1,0 +1,25 @@
+.google_maps_container {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  min-height: 280px;
+  overflow: hidden;
+  position: relative;
+  margin-top: 24px;
+  border: 1px solid #dedede;
+  border-radius: 16px;
+  background: #e8e8e8;
+}
+
+.google_maps_iframe {
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+#work-with-us {
+  margin-top: 48px;
+  scroll-margin-top: 24px;
+}

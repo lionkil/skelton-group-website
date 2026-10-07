@@ -1,0 +1,46 @@
+# Research themes based on the supplied slide and updated research descriptions.
+- name: Thermoelectrics
+  id: thermoelectrics
+  question: "How can waste heat be converted into useful electrical power?"
+  addresses:
+    - "Electronic structure, carrier effective masses and transport"
+    - "Phonon stability and lattice thermal transport"
+    - "Defect chemistry for targeted doping"
+  output: "Promising material compositions and optimal doping before synthesis"
+  figure:
+    src: /assets/images/thermoelectric fig.png
+    title: "Thermoelectric figure of merit zT of p- and n-type Sn(S₀.₂Se₀.₈)"
+    alt: "Two contour plots of predicted thermoelectric figure of merit zT for p- and n-type Sn(S₀.₂Se₀.₈), against doping level and temperature."
+    width: 1464
+    height: 606
+    caption: "Predicted thermoelectric figure of merit zT of p- and n-type Sn(S₀.₂Se₀.₈) modelled using the 128-atom special quasi-random structure (SQS) model, as a function of extrinsic electron carrier concentration (“doping level”) n and temperature T. Values of zT = 0.25, 0.5, 1, 1.5, 2, and 2.5 are shown by contour lines."
+- name: Molecular Solids
+  id: molecular-solids
+  question: "How can pressure, temperature and light control the properties of molecular materials?"
+  addresses:
+    - "Switching between magnetic states"
+    - "Crystal structure under pressure"
+    - "Vibrations, infrared and Raman spectra"
+  output: "A better understanding of how to tune molecular materials for use in sensors, molecular switches, data storage and devices that use electron spin."
+  figure:
+    src: /assets/images/molecular solids.png
+    title: "Pressure induced blue Raman shift"
+    alt: "Diagram of a molecular spin-crossover material under pressure alongside experimental and calculated low-frequency Raman spectra."
+    width: 1816
+    height: 1018
+    caption: "Pressure tunes the spin state and low-frequency vibrations of molecular spin-crossover materials. Compression drives Fe(II) from high spin (HP) to low spin (AP), changing the Raman spectrum. Calculations reproduce the measured spectral features, pointing to these materials as candidates for tunable terahertz absorbers."
+- name: Nuclear Materials
+  id: nuclear-materials
+  question: "How to ensure the safe storage of spent nuclear fuel?"
+  addresses:
+    - "Electronic structure and magnetism"
+    - "Energetics and particle morphology"
+    - "Spectroscopic identification using Raman and Infrared (IR)"
+  output: "Predicted evolution of stored plutonium under disposal conditions & reference spectra to support experimental characterisation"
+  figure:
+    src: /assets/images/puo2-magnetic.png
+    title: "Potential magnetic structures of PuO₂"
+    alt: "PuO₂ crystal structures showing diamagnetic, ferromagnetic and transverse and longitudinal antiferromagnetic configurations with 1k, 2k and 3k magnetic ordering."
+    width: 1424
+    height: 956
+    caption: "Magnetic structures of PuO₂ in the diamagnetic (DM), ferromagnetic (FM), and transverse and longitudinal antiferromagnetic (TAFM/LAFM) configurations with 1k, 2k or 3k ordering. The conventional labels 1k, 2k and 3k denote the crystal directions along which the magnetic moments are oriented, and the vectors μ label the orientations of the magnetic moments on the Pu atom."

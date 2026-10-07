@@ -1,0 +1,2511 @@
+- type: preprint
+  sort_order: 146
+  authors:
+    - M. Zhang
+    - J. M. Flitcroft
+    - J. M. Skelton
+  title: "First-principles prediction of the thermoelectric properties of Sn(S₀.₂Se₀.₈) alloys"
+  year: 2026
+
+- type: journal-article
+  sort_order: 145
+  authors:
+    - G. Li
+    - O. Stefanczyk
+    - J. M. Flitcroft
+    - C. S. Sangster
+    - S. Parsons
+    - E. K. Brechin
+    - N. Giordano
+    - T. Otake
+    - K. Nakamura
+    - L. Xiong
+    - K. Nakabayashi
+    - K. Imoto
+    - N. F. Chilton
+    - S.-I. Ohkoshi
+    - J. M. Skelton
+  title: "Pressure Tuning of the Low-frequency Raman Response in Spin-crossover Networks"
+  journal: "Journal of the American Chemical Society"
+  volume: 148
+  issue: 21
+  pages: 21908–21921
+  year: 2026
+  doi: 10.1021/jacs.6c03325
+
+- type: journal-article
+  sort_order: 144
+  authors:
+    - N. Lines
+    - R. M. Harker
+    - J. M. Flitcroft
+    - D. J. Cooke
+    - L. J. Gillie
+    - M. T. Storr
+    - J. M. Skelton
+    - M. Molinari
+  title: "Infrared and Raman Signatures of Stoichiometric PuO₂: A Density Functional Theory Study"
+  journal: "Journal of Nuclear Materials"
+  article_number: 156730
+  year: 2026
+  doi: 10.1016/j.jnucmat.2026.156730
+
+- type: journal-article
+  sort_order: 143
+  authors:
+    - T. R. C. Thompson
+    - B. Alnami
+    - J. M. Skelton
+    - N. F. Chilton
+  title: "Electron and Nuclear Spin Dynamics of a Dysprosium Complex in Solution"
+  journal: "Journal of the American Chemical Society"
+  volume: 148
+  issue: 19
+  pages: 19536–19546
+  year: 2026
+  doi: 10.1021/jacs.5c20971
+
+- type: journal-article
+  sort_order: 142
+  authors:
+    - S. Moxon
+    - J. M. Flitcroft
+    - J. M. Skelton
+    - L. J. Gillie
+    - D. J. Cooke
+    - S. C. Parker
+    - M. Molinari
+  title: "Impact of small-molecule adsorbates on the morphology of PuO₂ nanoparticles from first-principles modelling"
+  journal: "Journal of Physics: Condensed Matter"
+  volume: 38
+  issue: 7
+  article_number: '075001'
+  year: 2026
+  doi: 10.1088/1361-648X/ae35b6
+
+- type: journal-article
+  sort_order: 141
+  authors:
+    - A. Sabik
+    - M. Grodzicki
+    - J. M. Skelton
+    - S. Gorantla
+    - A. Trembułowicz
+    - M. J. Smiles
+    - T. Sobol
+    - E. Beyer
+    - B. Wolanin
+    - R. Kudrawiec
+    - T. D. Veal
+    - W. M. Linhart
+  title: "Electronic structure and optoelectronic properties of single-crystal Ge(S₀.₅Se₀.₅)"
+  journal: "Journal of Materials Chemistry C"
+  year: 2026
+  doi: 10.1039/D5TC03902A
+
+- type: journal-article
+  sort_order: 140
+  authors:
+    - D. F. Collins
+    - J. M. Skelton
+    - S. L. M. Schroeder
+    - H. Blade
+    - M. Jackman
+    - A. R. Pallipurath
+  title: "Determination of the crystallographic orientation of organic crystal facets with angle-resolved polarised Raman spectroscopy"
+  journal: "CrystEngComm"
+  volume: 28
+  issue: 4
+  pages: 836–848
+  year: 2026
+  doi: 10.1039/D5CE00672D
+
+- type: preprint
+  authors:
+    - A. Pallipurath
+    - F. Civati
+    - J. Skelton
+    - D. Keeble
+    - C. Crowley
+    - M.-E. Crowley
+    - P. McArdle
+    - A. Erxleben
+  title: "Real-Space X-Ray Pair Distribution Function Analysis and Molecular-Dynamics Modelling of Diflunisal Channel Hydrates"
+  year: 2020
+  chemrxiv: 10.26434/chemrxiv.12837524
+
+- type: journal-article
+  authors:
+    - R. A. Al Balushi
+    - N. Al Riyami
+    - A. Haque
+    - K. M. Alenezi
+    - M. S. Khan
+    - J. M. Skelton
+  title: "Synthesis, characterization, and photovoltaic performance of two new platina-ynes functionalized with seven-ring fused dithienoindacenodithiophene spacers"
+  journal: "Journal of Organometallic Chemistry"
+  volume: 1045
+  article_number: 123943
+  year: 2025
+  doi: 10.1016/j.jorganchem.2025.123943
+
+- type: journal-article
+  authors:
+    - N. D. Wood
+    - S. R. Yeandel
+    - J. M. Flitcroft
+    - J. M. Skelton
+    - D. J. Cooke
+    - L. J. Gillie
+    - S. C. Parker
+    - M. Molinari
+  title: "Thermoelectric performance of oriented SrTiO<sub>3</sub> nanofilms containing &Sigma;3{111} grain boundary interfaces"
+  journal: "Materials &amp; Design"
+  volume: 260
+  article_number: 114997
+  year: 2025
+  doi: 10.1016/j.matdes.2025.114997
+
+- type: journal-article
+  authors:
+    - S. Moxon
+    - J. M. Flitcroft
+    - J. M. Skelton
+    - L. J. Gillie
+    - D. J. Cooke
+    - S. C. Parker
+    - M. Molinari
+  title: "The effect of co-adsorbed H<sub>2</sub>O<sub>2</sub>, CO<sub>2</sub> and H<sub>2</sub>O on CeO<sub>2</sub> nanoparticle morphology: A density-functional theory study"
+  journal: "Ceramics International"
+  volume: 51
+  issue: 30
+  pages: 62540-62553
+  year: 2025
+  doi: 10.1016/j.ceramint.2025.10.398
+
+- type: journal-article
+  authors:
+    - A. Z. Khan
+    - J. M. Flitcroft
+    - J. M. Skelton
+  title: "Impact of crystal structure on the thermoelectric properties of n-type SrTiO<sub>3</sub>"
+  journal: "Energy Advances"
+  volume: 4
+  issue: 10
+  pages: 1279-1294
+  year: 2025
+  doi: 10.1039/D5YA00105F
+  chemrxiv: 10.26434/chemrxiv-2025-0nhsj
+
+- type: journal-article
+  authors:
+    - T. Sajid
+    - J. M. Flitcroft
+    - R. Freer
+    - D. J. Lewis
+    - J. M. Skelton
+  title: "Thermoelectric properties and figure of merit of Cu<sub>2</sub>ZnSnS<sub>4</sub>"
+  journal: "Journal of Materials Chemistry C"
+  volume: 13
+  issue: 32
+  pages: 16763-16777
+  year: 2025
+  doi: 10.1039/D5TC01537E
+  chemrxiv: 10.26434/chemrxiv-2025-mm25f
+
+- type: journal-article
+  authors:
+    - A. Z. Khan
+    - J. M. Flitcroft
+    - J. M. Skelton
+  title: "Thermoelectric properties of the low-spin lanthanide cobalate perovskites LaCoO<sub>3</sub>, PrCoO<sub>3</sub>, and NdCoO<sub>3</sub> from first-principles calculations"
+  journal: "Physical Chemistry Chemical Physics"
+  volume: 27
+  issue: 6
+  pages: 3230-3242
+  year: 2025
+  doi: 10.1039/D4CP04303K
+
+- type: journal-article
+  authors:
+    - M. Zhang
+    - I. Pallikara
+    - J. M. Flitcroft
+    - J. M. Skelton
+  title: "Amorphous-like thermal conductivity and high thermoelectric figure of merit in \"&pi;\" SnS and SnSe"
+  journal: Journal of Materials Chemistry A
+  volume: 13
+  issue: 7
+  pages: 5415-5426
+  year: 2025
+  doi: 10.1039/D4TA05815A
+  chemrxiv: 10.26434/chemrxiv-2024-w7c8m
+
+- type: journal-article
+  authors:
+    - J. Cui
+    - M. Daboczi
+    - Z. Cui
+    - M. Gong
+    - J. Flitcroft
+    - J. Skelton
+    - S. C. Parker
+    - S. Eslava
+  title: "BiVO<sub>4</sub> Photoanodes Enhanced with Metal Phosphide Co-Catalysts: Relevant Properties to Boost Photoanode Performance"
+  journal: "Small"
+  year: 2024
+  volume: 20
+  issue: 7
+  article_number: 2306757
+  doi: 10.1002/smll.202306757
+
+- type: journal-article
+  authors:
+    - A. Khan
+    - J. Flitcroft
+    - J. Skelton
+  title: "First-principles modelling of the thermoelectric Properties of n-type CaTiO<sub>3</sub>, SrTiO<sub>3</sub> and BaTiO<sub>3</sub>"
+  journal: "Materials Advances"
+  year: 2024
+  volume: 5
+  issue: 2
+  pages: 652-664
+  doi: 10.1039/D3MA00624G
+  chemrxiv: 10.26434/chemrxiv-2023-q81v4
+
+- type: journal-article
+  authors:
+    - Y. Liu
+    - J. M. Skelton
+    - X. Xia
+    - Y. Zhu
+    - D. J. Lewis
+    - R. Freer
+  title: "A combined experimental and modelling approach for the evaluation of the thermoelectric properties of Ag-doped SnS"
+  journal: "Journal of Materials Chemistry C"
+  volume: 12
+  pages: 508-520
+  year: 2024
+  doi: 10.1039/D3TC03672C
+
+- type: journal-article
+  authors:
+    - S. Guillemot
+    - A. Suwardi
+    - N. Kaltsoyannis
+    - J. Skelton
+  title: "Impact of crystal structure on the lattice thermal conductivity of the IV-VI chalcogenides"
+  journal: "Journal of Materials Chemistry A"
+  year: 2024
+  volume: 12
+  pages: 2932-2948
+  doi: 10.1039/D3TA05885A
+  chemrxiv: 10.26434/chemrxiv-2023-5q2v1
+
+- type: journal-article
+  authors:
+    - I. Pallikara
+    - J. M. Skelton
+  title: "Towards the high-throughput prediction of finite-temperature properties using the quasi-harmonic approximation"
+  journal: "Journal of Physics: Condensed Matter"
+  year: 2024
+  volume: 36
+  issue: 20
+  article_number: 205501
+  doi: 10.1088/1361-648X/ad19a3
+
+- type: journal-article
+  authors:
+    - J. M. Flitcroft
+    - A. Althubiani
+    - J. M. Skelton
+  title: "Thermoelectric Properties of the Bismuth Oxychalcogenides Bi<sub>2</sub>SO<sub>2</sub>, Bi<sub>2</sub>SeO<sub>2</sub> and Bi<sub>2</sub>TeO<sub>2</sub>"
+  journal: "Journal of Physics: Energy"
+  volume: 6
+  issue: 2
+  article_number: 025011
+  year: 2024
+  doi: 10.1088/2515-7655/ad2afd
+  chemrxiv: 10.26434/chemrxiv-2023-lh90f
+
+- type: journal-article
+  authors:
+    - S. Moxon
+    - A. R. Symington
+    - J. S. Tse
+    - J. M. Flitcroft
+    - J. M. Skelton
+    - L. J. Gillie
+    - D. J. Cooke
+    - S. C. Parker
+    - M. Molinari
+  title: "Composition-dependent morphologies of CeO<sub>2</sub> nanoparticles in the presence of Co-adsorbed H<sub>2</sub>O and CO<sub>2</sub>: a density functional theory study"
+  journal: "Nanoscale"
+  volume: 16
+  issue: 23
+  pages: 11232-11249
+  year: 2024
+  doi: 10.1039/D4NR01296H
+
+- type: journal-article
+  authors:
+    - Y. Liu
+    - P. D. McNaughter
+    - X. Liu
+    - A. V. Kretinin
+    - J. M. Skelton
+    - F. Azough
+    - D. J. Lewis
+    - R. Freer
+  title: "Exceptional Thermoelectric Performance of Cu<sub>2</sub>(Zn,Fe,Cd)SnS<sub>4</sub> Thin Films"
+  journal: "ACS Applied Materials & Interfaces"
+  volume: 16
+  issue: 9
+  pages: 11516–11527
+  year: 2024
+  doi: 10.1021/acsami.3c17730
+
+- type: journal-article
+  authors:
+    - J. J. Morris
+    - C. R. Bowen
+    - B. A. Coulson
+    - M. Eaton
+    - P. R. Raithby
+    - L. K. Saunders
+    - J. M. Skelton
+    - Q. Wang
+    - M. R. Warren
+    - Y. Zhang
+    - L. E. Hatcher
+  title: "Exploring Pyroelectricity, Thermal and Photochemical Switching in a Hybrid Organic-Inorganic Crystal by In Situ X-Ray Diffraction"
+  journal: "Angewandte Chemie International Edition"
+  volume: 63
+  issue: 20
+  article_number: e202401552
+  year: 2024
+  doi: 10.1002/anie.202401552
+
+- type: journal-article
+  authors:
+    - Y. Zhu
+    - J. M. Skelton
+    - D. J. Lewis
+    - R. Freer
+  title: "Electronic transport and the thermoelectric properties of donor-doped SrTiO<sub>3</sub>"
+  journal: "Journal of Physics: Energy"
+  volume: 6
+  issue: 2
+  article_number: 025027
+  year: 2024
+  doi: 10.1088/2515-7655/ad405d
+
+- type: journal-article
+  authors:
+    - M. L. Brown
+    - B. K. Isamura
+    - J. M. Skelton
+    - P. L. A. Popelier
+  title: "Incorporating Noncovalent Interactions in Transfer Learning Gaussian Process Regression Models for Molecular Simulations"
+  journal: "Journal of Chemical Theory and Computation"
+  volume: 20
+  issue: 14
+  pages: 5994-6008
+  year: 2024
+  doi: 10.1021/acs.jctc.4c00402
+
+- type: journal-article
+  authors:
+    - I. Pallikara
+    - J. M. Skelton
+    - L. E. Hatcher
+    - A. R. Pallipurath
+  title: "Going beyond the Ordered Bulk: A Perspective on the Use of the Cambridge Structural Database for Predictive Materials Design"
+  journal: "Crystal Growth & Design"
+  volume: 24
+  issue: 17
+  pages: 6911-6930
+  year: 2024
+  doi: 10.1021/acs.cgd.4c00694
+
+- type: journal-article
+  authors:
+    - S. Moxon
+    - J. M. Flitcroft
+    - L. J. Gillie
+    - D. J. Cooke
+    - J. M. Skelton
+    - S. C. Parker
+    - M. Molinari
+  title: "Composition-dependent morphology of stoichiometric and oxygen deficient PuO<sub>2</sub> nanoparticles in the presence of H<sub>2</sub>O and CO<sub>2</sub>: A density-functional theory study"
+  journal: "Applied Surface Science"
+  volume: 676
+  artice_number: 160997
+  year: 2024
+  doi: 10.1016/j.apsusc.2024.160997
+
+- type: journal-article
+  authors:
+    - R. Nabi
+    - B. Atkinson
+    - J. Staab
+    - J. Skelton
+    - N. F. Chilton
+  title: "The impact of low-energy phonon lifetimes on the magnetic relaxation in a dysprosocenium single-molecule magnet"
+  journal: "Chemical Communications"
+  volume: 60
+  issue: 94
+  pages: 13915-13918
+  year: 2024
+  doi: 10.1039/D4CC03768E
+  chemrxiv: 10.26434/chemrxiv-2024-hfvft
+
+- type: journal-article
+  authors:
+    - D. McHugh
+    - W. Tong
+    - A. Bezrukov
+    - P. Farras
+    - M. J. Zaworotko
+    - J. Mayans
+    - J. M. Skelton
+    - S. Barnett
+    - A. R. Pallipurath
+    - C. Papatriantafyllopoulou
+  title: "Lanthanide(III) Metal-Organic Frameworks (Ln = Gd, Tb, Dy) Based on a <i>C</i><sub>3</sub> Symmetrical Tricarboxylate Linker"
+  journal: "European Journal of Inorganic Chemistry"
+  year: 2024
+  volume: 28
+  issue: 1
+  article_number: e202400541
+  doi: 10.1002/ejic.202400541
+
+- type: journal-article
+  authors:
+    - K. M. Ta
+    - D. J. Cooke
+    - L. J. Gillie
+    - S. C. Parker
+    - S. Seal
+    - P. B. Wilson
+    - R. M. Phillips
+    - J. M. Skelton
+    - M. Molinari
+  title: "Infrared and Raman Diagnostic Modeling of Phosphate Adsorption on Ceria Nanoparticles"
+  journal: "The Journal of Physical Chemistry C"
+  year: 2023
+  volume: 127
+  issue: 50
+  pages: 20183-20193
+  doi: 10.1021/acs.jpcc.3c05409
+
+- type: journal-article
+  authors:
+    - M. A. Buckingham
+    - J. M. Skelton
+    - D. J. Lewis
+  title: "Synthetic Strategies toward High Entropy Materials: Atoms-to-Lattices for Maximum Disorder"
+  journal: "Crystal Growth & Design"
+  year: 2023
+  volume: 23
+  issue: 10
+  pages: 6998-7009
+  doi: 10.1021/acs.cgd.3c00712
+
+- type: journal-article
+  authors:
+    - J. S. Tse
+    - J. Grant
+    - J. M. Skelton
+    - L. J. Gillie
+    - R. Zhu
+    - G. L. Pesce
+    - R. J. Ball
+    - S. C. Parker
+    - M. Molinari
+  title: "Location of Artinite (Mg<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>·3H<sub>2</sub>O) within the MgO-CO<sub>2</sub>-H<sub>2</sub>O system using <i>ab initio</i> thermodynamics"
+  journal: "Physical Chemistry Chemical Physics"
+  volume: 25
+  pages: 18011-18022
+  year: 2023
+  doi: 10.1039/D3CP00518F
+
+- type: journal-article
+  authors:
+    - N. D. Wood
+    - J. S. Tse
+    - J. M. Skelton
+    - D. J. Cooke
+    - L. J. Gillie
+    - S. C. Parker
+    - M. Molinari
+  title: "First principles insights into oxide/polymer composites: SrTiO<sub>3</sub>/polyaniline/graphene"
+  journal: "Journal of Materials Science & Technology"
+  volume: 166
+  pages: 250-260
+  year: 2023
+  doi: 10.1016/j.jmst.2023.05.019
+
+- type: journal-article
+  authors:
+    - J. G. C. Kragskow
+    - A. Mattioni
+    - J. K. Staab
+    - D. Reta
+    - J. M. Skelton
+    - N. F. Chilton
+  title: "Spin-phonon coupling and magnetic relaxation in single-molecule magnets"
+  journal: "Chemical Society Reviews"
+  volume: 52
+  pages: 4567-4585
+  year: 2023
+  doi: 10.1039/D2CS00705C
+
+- type: journal-article
+  authors:
+    - B. Alnami
+    - J. G. C. Kragskow
+    - J. K. Staab
+    - J. M. Skelton
+    - N. F. Chilton
+  title: "Structural Evolution of Paramagnetic Lanthanide Compounds in Solution Compared to Time- and Ensemble-Average Structures"
+  journal: Journal of the American Chemical Society"
+  year: 2023
+  volume: 145
+  issue: 25
+  pages: 13632-13639
+  doi: 10.1021/jacs.3c01342
+
+- type: journal-article
+  authors:
+    - Y. Liu
+    - P. D. McNaughter
+    - F. Azough
+    - X. Liu
+    - J. M. Skelton
+    - A. V. Kretinin
+    - D. J Lewis
+    - R. Freer
+  title: "Enhanced Thermoelectric Performance of Tin (II) Sulfide Thin Films Prepared by Aerosol Assisted Chemical Vapor Deposition"
+  journal: "ACS Applied Energy Materials"
+  volume: 6
+  issue: 8
+  pages: 4462-4474
+  year: 2023
+  doi: 10.1021/acsaem.3c00608
+
+- type: journal-article
+  authors:
+    - J. Qu
+    - A. Elgendy
+    - R. Cai
+    - M. A. Buckingham
+    - A. A. Papaderakis
+    - H. de Latour
+    - K. Hazeldine
+    - G. F. S. Whitehead
+    - F. Alam
+    - C. T. Smith
+    - D. J. Binks
+    - A. Walton
+    - J. M. Skelton
+    - R. A. W. Dryfe
+    - S. J. Haigh
+    - D. J. Lewis
+  title: "A Low‐Temperature Synthetic Route Toward a High‐Entropy 2D Hexernary Transition Metal Dichalcogenide for Hydrogen Evolution Electrocatalysis"
+  journal: "Advanced Science"
+  volume: 10
+  issue: 14
+  artice_number: 2204488
+  year: 2023
+  doi: 10.1002/advs.202204488
+
+- type: journal-article
+  authors:
+    - T. Smith
+    - S. Moxon
+    - J. S. Tse
+    - J. M. Skelton
+    - D. J. Cooke
+    - L. J. Gillie
+    - E. L. da Silva
+    - R. M. Harker
+    - M. T. Storr
+    - S. C. Parker
+    - M. Molinari
+  title: "Structural dynamics of Schottky and Frenkel defects in CeO<sub>2</sub>: a density-functional theory study"
+  journal: "Journal of Physics: Energy"
+  volume: 5
+  artice_number: 025004
+  year: 2023
+  doi: 10.1088/2515-7655/acbb29
+
+- type: journal-article
+  authors:
+    - M. L. Brown
+    - J. M. Skelton
+    - P. L. A. Popelier
+  title: "Construction of a Gaussian Process Regression Model of Formamide for Use in Molecular Simulations"
+  journal: "The Journal of Physical Chemistry A"
+  volume: 127
+  issue: 7
+  pages: 1702-1714
+  year: 2023
+  doi: 10.1021/acs.jpca.2c06566
+
+- type: journal-article
+  authors:
+    - V. S. Parmar
+    - A. M. Thiel
+    - R. Nabi
+    - G. K. Gransbury
+    - M. S. Norre
+    - P. Evans
+    - S. C. Corner
+    - J. M. Skelton
+    - N. F. Chilton
+    - D. P. Mills
+    - J. Overgaard
+  title: "Influence of pressure on a dysprosocenium single-molecule magnet"
+  journal: "Chemical Communications"
+  volume: 59
+  pages: 2656-2659
+  year: 2023
+  doi: 10.1039/D2CC06722F
+
+- type: journal-article
+  authors:
+    - A. R. B. J. Lutton-Gething
+    - L. T. Nangkam
+    - J. O. W. Johansson
+    - I. Pallikara
+    - J. M. Skelton
+    - G. F. S. Whitehead
+    - I. Vitorica-Yrezabal
+    - M. P. Attfield
+  title: "Breathing Behaviour Modification of Gallium MIL-53 Metal-Organic Frameworks Induced by the Bridging Framework Inorganic Anion"
+  journal: "Chemistry: A European Journal"
+  volume: 29
+  issue: 21
+  article_number: e202203773
+  year: 2023
+  doi: 10.1002/chem.202203773
+
+- type: journal-article
+  authors:
+    - R. Nabi
+    - J. Staab
+    - A. Mattioni
+    - J. Kragskow
+    - D. Reta
+    - J. Skelton
+    - N. Chilton
+  title: "Accurate and efficient spin-phonon coupling and spin dynamics calculations for molecular solids"
+  journal: "Journal of the American Chemical Society"
+  volume: 145
+  issue: 45
+  pages: 24558-24567
+  year: 2023
+  doi: 10.1021/jacs.3c06015
+  chemrxiv: 10.26434/chemrxiv-2023-6q06z
+
+- type: journal-article
+  authors:
+    - M. L. Brown
+    - J. M. Skelton
+    - P. L. A. Popelier
+  title: "Application of the FFLUX Force Field to Molecular Crystals: A Study of Formamide"
+  journal: "Journal of Chemical Theory and Computation"
+  volume: 19
+  issue: 21
+  pages: 7946-7959
+  year: 2023
+  doi: 10.1021/acs.jctc.3c00578
+  chemrxiv: 10.26434/chemrxiv-2023-qc1h4
+
+- type: journal-article
+  authors:
+    - M. Zhang
+    - J. Flictroft
+    - S. Guillemot
+    - J. Skelton
+  title: "Thermoelectric properties of <i>Pnma</i> and <i>R3m</i> GeS and GeSe"
+  journal: "Journal of Materials Chemistry C"
+  volume: 11
+  pages: 14833-14847
+  year: 2023
+  doi: 10.1039/D3TC02938G
+  chemrxiv: 10.26434/chemrxiv-2023-8p491
+
+- type: journal-article
+  authors:
+    - B. Wei
+    - J. M. Flitcroft
+    - J. M. Skelton
+  title: "Structural Dynamics, Phonon Spectra and Thermal Transport in the Silicon Clathrates"
+  journal: Molecules
+  volume: 27
+  issue: 16
+  article_number: 6431
+  year: 2022
+  doi: 10.3390/molecules27196431
+
+- type: journal-article
+  authors:
+    - B. Ward-O’Brien
+    - P. D. McNaughter
+    - R. Cai
+    - A. Chattopadhyay
+    - J. M. Flitcroft
+    - C. T. Smith
+    - D. J. Binks
+    - J. M. Skelton
+    - S. J. Haigh
+    - D. J. Lewis
+  title: "Quantum Confined High-Entropy Lanthanide Oxysulfide Colloidal Nanocrystals"
+  journal: "Nano Letters"
+  volume: 22
+  issue: 20
+  pages: 8045-8051
+  year: 2022
+  doi: 10.1021/acs.nanolett.2c01596
+
+- type: journal-article
+  authors:
+    - L. E. Hatcher
+    - M. R. Warren
+    - J. M. Skelton
+    - A. R. Pallipurath
+    - L. K. Saunders
+    - D. R. Allan
+    - P. Hathaway
+    - G. Crevatin
+    - D. Omar
+    - B. H. Williams
+    - B. A. Coulson
+    - C. C. Wilson
+    - P. R. Raithby
+  title: "LED-pump-X-ray-multiprobe crystallography for sub-second timescales"
+  journal: "Nature Communications Chemistry"
+  volume: 5
+  article_number: 102
+  year: 2022
+  doi: 10.1038/s42004-022-00716-1
+
+- type: journal-article
+  authors:
+    - E. Lora da Silva
+    - J. M. Skelton
+    - P. Rodr&iacute;guez-Hern&aacute;ndez
+    - A. Mu&ntilde;oz
+    - M. C. Santos
+    - D. Mart&iacute;nez-Garcia
+    - R. Vilaplana
+    - F. J. Manj&oacute;n
+  title: "A theoretical study of the <i>Pnma</i> and <i>R</i>-3<i>m</i> phases of Sb<sub>2</sub>S<sub>3</sub>, Bi<sub>2</sub>S<sub>3</sub> and Sb<sub>2</sub>Se<sub>3</sub>"
+  journal: "Journal of Materials Chemistry C"
+  volume: 10
+  pages: 15061-15074
+  year: 2022
+  doi: 10.1039/D2TC01484J
+  arxiv: 1904.09181
+
+- type: journal-article
+  authors:
+    - K. Brlec
+    - K. B. Spooner
+    - J. M. Skelton
+    - D. O. Scanlon
+  title: "Y<sub>2</sub>Ti<sub>2</sub>O<sub>5</sub>S<sub>2</sub> - a promising n-type oxysulphide for thermoelectric applications"
+  journal: "Journal of Materials Chemistry A"
+  volume: 10
+  pages: 16813-16824
+  year: 2022
+  doi: 10.1039/D2TA04160J
+  chemrxiv: 10.26434/chemrxiv-2022-zk09d
+
+- type: journal-article
+  authors:
+    - I. Pallikara
+    - P. Kayastha
+    - J. M. Skelton
+    - L. D. Whalley
+  title: "The Physical Significance of Imaginary Phonon Modes in Crystals"
+  journal: "Electronic Structure"
+  volume: 4
+  article_number: 033002
+  year: 2022
+  doi: 10.1088/2516-1075/ac78b3
+  arxiv: 2203.01244
+
+- type: journal-article
+  authors:
+    - A. Sauza-de la Vega
+    - L. J. Duarte
+    - A. F. Silva
+    - J. M. Skelton
+    - T. Rocha-Rinza
+    - P. Popelier
+  title: "Towards an Atomistic Understanding of Polymorphism in Molecular Solids"
+  journal: "Physical Chemistry Chemical Physics"
+  volume: 24
+  pages: 11278-11294
+  year: 2022
+  doi: 10.1039/D2CP00457G
+  chemrxiv: 10.26434/chemrxiv.14369726
+
+- type: journal-article
+  authors:
+    - J. M. Flitcroft
+    - I. Pallikara
+    - J. M. Skelton
+  title: "Thermoelectric Properties of <i>Pnma</i> and Rocksalt SnS and SnSe"
+  journal: "Solids"
+  volume: 3
+  issue: 1
+  pages: 155-176
+  year: 2022
+  doi: 10.3390/solids3010011
+
+- type: journal-article
+  authors:
+    - S. Moxon
+    - J. Skelton
+    - J. S. Tse
+    - J. Flitcroft
+    - A. Togo
+    - D. J. Cooke
+    - E. L. da Silva
+    - R. M. Harker
+    - M. T. Storr
+    - S. C. Parker
+    - M. Molinari
+  title: "Structural dynamics of Schottky and Frenkel defects in ThO<sub>2</sub>: a density-functional theory study"
+  journal: "Journal of Materials Chemistry A"
+  volume: 10
+  pages: 1861-1875
+  year: 2022
+  doi: 10.1039/D1TA10072F
+
+- type: journal-article
+  authors:
+    - J. Cen
+    - I. Pallikara
+    - J. Skelton
+  title: "Structural Dynamics and Thermal Transport in Bismuth Chalcogenide Alloys"
+  journal: "Chemistry of Materials"
+  volume: 33
+  issue: 21
+  pages: 8404-8417
+  year: 2021
+  doi: 10.1021/acs.chemmater.1c02777
+  chemrxiv: 10.33774/chemrxiv-2021-8487n
+
+- type: journal-article
+  authors:
+    - M. J. Smiles
+    - J. M. Skelton
+    - H. Shiel
+    - L. A. H. Jones
+    - J. E. N. Swallow
+    - H. J. Edwards
+    - P. A. E. Murgatroyd
+    - T. J. Featherstone
+    - P. K. Thakur
+    - T.-L. Lee
+    - V. R. Dhanak
+    - T. D. Veal
+  title: "Ge 4s<sup>2</sup> lone pairs and band alignments in GeS and GeSe for photovoltaics"
+  journal: "Journal of Materials Chemistry A"
+  volume: 9
+  pages: 22440-22452
+  year: 2021
+  doi: 10.1039/D1TA05955F
+
+- type: journal-article
+  authors:
+    - I. Pallikara
+    - J. Skelton
+  title: "Phase Stability of the Tin Monochalcogenides SnS and SnSe: A Quasi-Harmonic Lattice-Dynamics Study"
+  journal: "Physical Chemistry Chemical Physics"
+  volume: 23
+  pages: 19219-19236
+  year: 2021
+  doi: 10.1039/D1CP02597J
+  chemrxiv: 10.26434/chemrxiv.14187689
+
+- type: journal-article
+  authors:
+    - J. Tse
+    - A. Aziz
+    - J. M. Flitcroft
+    - J. M. Skelton
+    - L. J. Gillie
+    - S. C. Parker
+    - D. J. Cooke
+    - M. Molinari
+  title: "Unraveling the Impact of Graphene Addition to Thermoelectric SrTiO<sub>3</sub> and La-Doped SrTiO<sub>3</sub> Materials: A Density Functional Theory Study"
+  journal: "ACS Applied Materials & Interfaces"
+  volume: 13
+  issue: 34
+  pages: 41303-41314
+  year: 2021
+  doi: 10.1021/acsami.1c10865
+
+- type: journal-article
+  authors:
+    - W. Rahim
+    - J. M. Skelton
+    - D. O. Scanlon
+  title: "Ca<sub>4</sub>Sb<sub>2</sub>O and Ca<sub>4</sub>Bi<sub>2</sub>O: Two Promising Mixed-AnionThermoelectrics"
+  journal: "Journal of Materials Chemistry A"
+  volume: 9
+  pages: 20417-20435
+  year: 2021
+  doi: 10.1039/D1TA03649A
+  chemrxiv: 10.26434/chemrxiv.14541801
+
+- type: journal-article
+  authors:
+    - J. G. Lee
+    - A. B. Naden
+    - C. D. Savaniu
+    - P. A. Connor
+    - J. L. Payne
+    - J. M. Skelton
+    - A. S. Gibbs
+    - J. Hui
+    - S. C. Parker
+    - J. T. S. Irvine
+  title: "Use of Interplay between A-Site Non-Stoichiometry and Hydroxide Doping to Deliver Novel Proton-Conducting Perovskite Oxides"
+  journal: "Advanced Energy Materials"
+  volume: 11
+  issue: 37
+  article_number: 2101337
+  year: 2021
+  doi: 10.1002/aenm.202101337
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+  title: "Approximate  models  for  the  lattice  thermal  conductivity  of  alloy thermoelectrics"
+  journal: "Journal of Materials Chemistry C"
+  volume: 9
+  pages: 11772-11787
+  year: 2021
+  doi: 10.1039/D1TC02026A
+  chemrxiv: 10.26434/chemrxiv.14540358
+
+- type: journal-article
+  authors:
+    - I. J. Al-Busaidi
+    - A. Haque
+    - R. A. Al-Balushi
+    - J. A. Rather
+    - A. Munam
+    - R. Ilmi
+    - P. R. Raithby
+    - Y. Zhang
+    - Y. Fu
+    - Z. Xie
+    - S. Chen
+    - S. M. Islam
+    - W.-Y. Wong
+    - J. M. Skelton
+    - M. S. Khan
+  title: "Synthesis, characterization, and optoelectronic properties of phenothiazine-based organic co-poly-ynes"
+  journal: "New Journal of Chemistry"
+  volume: 45
+  pages: 15082-15095
+  year: 2021
+  doi: 10.1039/D1NJ00925G
+
+- type: journal-article
+  authors:
+    - A. R. Pallipurath
+    - J. M. Skelton
+    - A. Britton
+    - E. A. Willneff
+    - S. L. M. Schroeder
+  title: "Bulk and Surface Conformations in Solid-State Lovastatin: Spectroscopic and Molecular Dynamics Studies"
+  journal: "Crystals"
+  volume: 11
+  issue: 5
+  article_number: 509
+  year: 2021
+  doi: 10.3390/cryst11050509
+
+- type: journal-article
+  authors:
+    - J. Tang
+    - J. M. Skelton
+  title: "Impact of noble-gas filler atoms on the lattice thermal conductivity of CoSb<sub>3</sub> skutterudites: first-principles modelling"
+  journal: "Journal of Physics: Condensed Matter"
+  volume: 33
+  issue: 16
+  article_number: 164002
+  year: 2021
+  doi: 10.1088/1361-648X/abd8b8
+  chemrxiv: 10.26434/chemrxiv.13227836
+
+- type: journal-article
+  authors:
+    - A. Haque
+    - R. Al-Balushi
+    - I. J. Al-Busaidi
+    - N. K. Al-Rasbi
+    - S. Al-Bahri
+    - M. K. Al-Suti
+    - M. S. Khan
+    - O. K. Abou-Zied
+    - J. M. Skelton
+    - P. R. Raithby
+  title: "Two Is Better than One? Investigating the Effect of Incorporating Re(CO)<sub>3</sub>Cl Side Chains into Pt(II) Diynes and Polyynes"
+  journal: "Inorganic Chemistry"
+  volume: 60
+  issue: 2
+  pages: 745-759
+  year: 2020
+  doi: 10.1021/acs.inorgchem.0c02747
+
+- type: journal-article
+  authors:
+    - W. Rahim
+    - J. Skelton
+    - D. Scanlon
+  title: "&alpha;-Bi<sub>2</sub>Sn<sub>2</sub>O<sub>7</sub>: a potential room temperature n-type oxide thermoelectric"
+  journal: "Journal of Materials Chemistry A"
+  volume: 8
+  pages: 16405-16420
+  year: 2020
+  doi: 10.1039/D0TA03945D
+  chemrxiv: 10.26434/chemrxiv.12420242
+
+- type: journal-article
+  authors:
+    - H. Yang
+    - C. Savory
+    - B. Morgan
+    - D. Scanlon
+    - J. Skelton
+    - A. Walsh
+  title: "Chemical Trends in the Lattice Thermal Conductivity of Li(Ni, Mn, Co)O<sub>2</sub> (NMC) Battery Cathodes"
+  journal: "Chemistry of Materials"
+  volume: 32
+  issue: 17
+  pages: 7542-7550
+  year: 2020
+  doi: 10.1021/acs.chemmater.0c02908
+  chemrxiv: 10.26434/chemrxiv.12320033
+
+- type: journal-article
+  authors:
+    - W. Rahim
+    - J. M. Skelton
+    - C. N. Savory
+    - I. R. Evans
+    - J. S. O. Evans
+    - A. Walsh
+    - D. O. Scanlon
+  title: "Polymorph exploration of bismuth stannate using first-principles phonon mode mapping"
+  journal: "Chemical Science"
+  volume: 11
+  pages: 7904-7909
+  year: 2020
+  doi: 10.1039/D0SC02995E
+  chemrxiv: 10.26434/chemrxiv.12318752
+
+- type: journal-article
+  authors:
+    - L. A. H. Jones
+    - W. M. Linhart
+    - N. Fleck
+    - J. E. N. Swallow
+    - P. A. E. Murgatroyd
+    - H. Shiel
+    - T. J. Featherstone
+    - M. Smiles
+    - P. K. Thakur
+    - T.-L. Lee
+    - L. J. Hardwick
+    - J. Alaria
+    - F. J&auml;ckel
+    - R. Kudrawiec
+    - L. A. Burton
+    - A. Walsh
+    - J. M. Skelton
+    - T. D. Veal
+    - V. R. Dhanak
+  title: "Sn 5<i>s</i><sup>2</sup> lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation"
+  journal: "Physical Review Materials"
+  volume: 4
+  article_number: 074602
+  year: 2020
+  doi: 10.1103/PhysRevMaterials.4.074602
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - D. S. D. Gunn
+    - S. Metz
+    - S. C. Parker
+  title: "Accuracy of hybrid functionals with non-self-consistent Kohn-Sham orbitals for predicting the properties of semiconductors"
+  journal: "Journal of Chemical Theory and Computation"
+  volume: 16
+  issue: 6
+  pages: 3543-3557
+  year: 2020
+  doi: 10.1021/acs.jctc.9b01218
+
+- type: journal-article
+  authors:
+    - A. Chiesa
+    - F. Cugini
+    - R. Hussain
+    - E. Macaluso
+    - G. Allodi
+    - E. Garlatti
+    - M. Giansiracusa
+    - C. A. P. Goodwin
+    - F. Ortu
+    - D. Reta
+    - J. M. Skelton
+    - T. Guidi
+    - P. Santini
+    - M. Solzi
+    - R. De Renzi
+    - D. P. Mills
+    - N. F. Chilton
+    - S. Carretta
+  title: "Understanding magnetic relaxation in single-ion magnets with high blocking temperature"
+  journal: "Physical Review B"
+  volume: 101
+  article_number: 174402
+  year: 2020
+  doi: 10.1103/PhysRevB.101.174402
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+  title: "Lattice dynamics of <i>Pnma</i> Sn(S<sub>1-<i>x</i></sub>Se<sub><i>x</i></sub>) solid solutions: energetics, phonon spectra and thermal transport"
+  journal: "Journal of Physics: Energy"
+  volume: 2
+  issue: 2
+  article_number: 025006
+  year: 2020
+  doi: 10.1088/2515-7655/ab7839
+  arxiv: 2001.11311
+
+- type: journal-article
+  authors:
+    - R. X. Yang
+    - J. Skelton
+    - E. L. Da Silva
+    - J. M. Frost
+    - A. Walsh
+  title: Assessment of dynamic structural instabilities across 24 cubic inorganic halide perovskites
+  journal: "The Journal of Chemical Physics"
+  volume: 152
+  article_number: 024703
+  year: 2020
+  doi: 10.1063/1.5131575
+  chemrxiv: 10.26434/chemrxiv.9976868
+
+- type: conference-proceedings
+  authors:
+    - E. Lora da Silva
+    - M. C. Santos
+    - J. M. Skelton
+    - T. Yang
+    - T. Santos
+    - S. C. Parker
+    - A. Walsh
+  title: "Electronic and Phonon Instabilities in Bilayer Graphene under Applied External Bias"
+  journal: "Materials Today: Proceedings"
+  volume: 20
+  pages: 373-382
+  year: 2020
+  doi: 10.1016/j.matpr.2019.10.076
+  arxiv: 1809.06555
+
+- type: book-chapter
+  authors:
+    - L. E. Hatcher
+    - M. R. Warren
+    - A. R. Pallipurath
+    - L. K. Saunders
+    - J. M. Skelton
+  title: "Watching Photochemistry Happen: Recent Developments in Dynamic Single-Crystal X-Ray Diffraction Studies"
+  book_title: "21st Century Challenges in Chemical Crystallography I: History and Technical Developments"
+  editors:
+    - D. M. P. Mingos
+    - P. R. Raithby
+  series: "Structure and Bonding"
+  volume: 185
+  year: 2020
+  publisher: Springer Nature
+  publication_place: Switzerland
+  doi: 10.1007/978-3-030-64743-8
+  isbn:
+    - type: hardcover
+      number: 978-3-030-64742-1
+    - type: softcover
+      number: 978-3-030-64745-2
+    - type: online
+      number: 978-3-030-64743-8
+
+- type: journal-article
+  authors:
+    - F. Belviso
+    - V. E. P. Claerbout
+    - A. Comas-Vives
+    - N. S. Dalal
+    - F.-R. Fan
+    - A. Filippetti
+    - V. Fiorentini
+    - L. Foppa
+    - C. Franchini
+    - B. Geisler
+    - L. M. Ghiringhelli
+    - A. Gro&szlig;
+    - S. Hu
+    - J. &Iacute;&ntilde;iguez
+    - S. K. Kauwe
+    - J. L. Musfeldt
+    - P. Nicolini
+    - R. Pentcheva
+    - T. Polcar
+    - W. Ren
+    - F. Ricci
+    - F. Ricci
+    - H. S. Sen
+    - J. M. Skelton
+    - T. D. Sparks
+    - A. Stroppa
+    - A. Urru
+    - M. Vandichel
+    - P. Vavassori
+    - H. Wu
+    - K. Yang
+    - H. J. Zhao
+    - D. Puggioni
+    - R. Cortese
+    - A. Cammarata
+  title: "Viewpoint: Atomic-Scale Design Protocols toward Energy, Electronic, Catalysis, and Sensing Applications"
+  journal: "Inorganic Chemistry"
+  volume: 58
+  issue: 22
+  pages: 14939-14980
+  year: 2019
+  doi: 10.1021/acs.inorgchem.9b01785
+
+- type: journal-article
+  authors:
+    - N. Bannister
+    - J. Skelton
+    - G. Kociok-K&ouml;hn
+    - T. Batten
+    - E. Da Como
+    - S. Crampin
+  title: Lattice vibrations of &gamma;- and &beta;-coronene from Raman microscopy and theory
+  journal: "Physical Review Materials"
+  volume: 3
+  issue: 12
+  article_number: 125601
+  year: 2019
+  doi: 10.1103/PhysRevMaterials.3.125601
+  arxiv: 1910.04101
+
+- type: journal-article
+  authors:
+    - A. J. Clough
+    - N. M. Orchanian
+    - J. M. Skelton
+    - A. J. Neer
+    - S. A. Howard
+    - C. A. Downes
+    - L. F. J. Piper
+    - A. Walsh
+    - B. C. Melot
+    - S. C. Marinescu
+  title: Room Temperature Metallic Conductivity in a Metal-Organic Framework Induced by Oxidation
+  journal: "Journal of the American Chemical Society"
+  volume: 141
+  issue: 41
+  pages: 16323-16330
+  year: 2019
+  doi: 10.1021/jacs.9b06898
+
+- type: journal-article
+  authors:
+    - K. T Butler
+    - P. Vervoorts
+    - M. G. Ehrenreich
+    - J. Armstrong
+    - J. M. Skelton
+    - G. Kieslich
+  title: "Experimental Evidence for Vibrational Entropy as Driving Parameter of Flexibility in the Metal-Organic Framework ZIF-4 (Zn)"
+  journal: "Chemistry of Materials"
+  volume: 31
+  issue: 20
+  pages: 8366-8372
+  year: 2019
+  doi: 10.1021/acs.chemmater.9b01908
+
+- type: journal-article
+  authors:
+    - H. Yang
+    - J.-Y. Yang
+    - C. N. Savory
+    - J. M. Skelton
+    - B. J. Morgan
+    - D. O. Scanlon
+    - A. Walsh
+  title: "Highly Anisotropic Thermal Transport in LiCoO<sub>2</sub>"
+  journal: "The Journal of Physical Chemistry Letters"
+  volume: 10
+  issue: 18
+  pages: 5552-5556
+  year: 2019
+  doi: 0.1021/acs.jpclett.9b02073
+  chemrxiv: 10.26434/chemrxiv.8874404
+
+- type: journal-article
+  authors:
+    - D. Davies
+    - K. Butler
+    - A. J Jackson
+    - J. Skelton
+    - K. Morita
+    - A. Walsh
+  title: "SMACT: Semiconducting Materials by Analogy and Chemical Theory"
+  journal: "The Journal of Open Source Software"
+  volume: 4
+  issue: 38
+  pages: 1361
+  year: 2019
+  doi: 10.21105/joss.01361
+
+- type: journal-article
+  authors:
+    - D. S. D. Gunn
+    - J. M. Skelton
+    - L. A. Burton
+    - S. Metz
+    - S. C. Parker
+  title: "Thermodynamics, Electronic Structure, and Vibrational Properties of Sn<sub><i>n</i></sub>(S<sub>1-<i>x</i></sub>Se<sub><i>x</i></sub>)<sub><i>m</i></sub> Solid Solutions for Energy Applications"
+  journal: "Chemistry of Materials"
+  volume: 31
+  issue: 10
+  pages: 3672-3685
+  year: 2019
+  doi: 10.1021/acs.chemmater.9b00362
+
+- type: journal-article
+  authors:
+    - A. Nearchou
+    - M.-L. U. Cornelius
+    - J. M. Skelton
+    - Z. L. Jones
+    - A. B. Cairns
+    - I. E. Collings
+    - P. R. Raithby
+    - S. A. Wells
+    - A. Sartbaeva
+  title: "Intrinsic Flexibility of the EMT Zeolite Framework under Pressure"
+  journal: "Molecules"
+  volume: 24
+  issue: 3
+  pages: 641
+  year: 2019
+  doi: 10.3390/molecules24030641
+  chemrxiv: 10.26434/chemrxiv.7588733
+
+- type: journal-article
+  authors:
+    - C. L. Jones
+    - J. M. Skelton
+    - S. C. Parker
+    - P. R. Raithby
+    - A. Walsh
+    - C. C. Wilson
+    - L. H. Thomas
+  title: "Living in the salt-cocrystal continuum: indecisive organic complexes with thermochromic behaviour"
+  journal: "CrystEngComm"
+  volume: 21
+  pages: 1626-1634
+  year: 2019
+  doi: 10.1039/C8CE02066C
+
+- type: journal-article
+  authors:
+    - L. E. Hatcher
+    - J. M. Skelton
+    - M. R. Warren
+    - P. R. Raithby
+  title: "Photocrystallographic Studies on Transition Metal Nitrito Metastable Linkage Isomers: Manipulating the Metastable State"
+  journal: "Accounts of Chemical Research"
+  volume: 52
+  issue: 4
+  pages: 1079-1088
+  year: 2019
+  doi: 10.1021/acs.accounts.9b00018
+
+- type: journal-article
+  authors:
+    - A. R. Pallipurath
+    - J. M. Skelton
+    - A. Erxleben
+    - P. McArdle
+  title: "Shining light on growth-dependent surface chemistry of organic crystals: a polarised Raman spectroscopic and computational study of aspirin"
+  journal: "Crystal Growth & Design"
+  volume: 19
+  issue: 2
+  pages: 1288-1298
+  year: 2019
+  doi: 10.1021/acs.cgd.8b01693
+
+- type: journal-article
+  authors:
+    - D. K. Loke
+    - J. M. Skelton
+    - T. H. Lee
+    - R. Zhao
+    - T.-C. Chong
+    - S. R. Elliott
+  title: "Ultrafast Nanoscale Phase-Change Memory Enabled By Single-Pulse Conditioning"
+  journal: "ACS Applied Materials & Interfaces"
+  volume: 10
+  issue: 49
+  pages: 41855-41860
+  year: 2018
+  doi: 10.1021/acsami.8b16033
+
+- type: journal-article
+  authors:
+    - A. Gold-Parker
+    - P. M. Gehring
+    - J. M. Skelton
+    - I. C. Smith
+    - D. Parshall
+    - J. M. Frost
+    - H. I. Karunadasa
+    - A. Walsh
+    - M. F. Toney
+  title: "Acoustic phonon lifetimes limit thermal transport in methylammonium lead iodide"
+  journal: "Proceedings of the National Academy of Sciences of the United States of America"
+  volume: 115
+  issue: 47
+  pages: 11905-11910
+  year: 2018
+  doi: 10.1073/pnas.1812227115
+  arxiv: 1807.06679
+
+- type: journal-article
+  authors:
+    - G. Kieslich
+    - J. M. Skelton
+    - J. Armstrong
+    - Y. Wu
+    - F. Wei
+    - K. L. Svane
+    - A. Walsh
+    - K. T. Butler
+  title: "Hydrogen Bonding versus Entropy: Revealing the Underlying Thermodynamics of the Hybrid Organic−Inorganic Perovskite [CH<sub>3</sub>NH<sub>3</sub>]PbBr<sub>3</sub>"
+  journal: "Chemistry of Materials"
+  volume: 30
+  pages: 8782-8788
+  year: 2018
+  doi: 10.1021/acs.chemmater.8b03164
+
+- type: journal-article
+  authors:
+    - K. Kobayashi
+    - J. M. Skelton
+    - Y. Saito
+    - S. Shindo
+    - M. Kobata
+    - P. Fons
+    - A. V. Kolobov
+    - S. Elliott
+    - D. Ando
+    - Y. Sutou
+  title: "Understanding the fast phase-change mechanism of tetrahedrally bonded Cu<sub>2</sub>GeTe<sub>3</sub>: Comprehensive analyses of electronic structure and transport phenomena"
+  journal: "Physical Review B"
+  volume: 97
+  issue: 19
+  article_number: 195105
+  year: 2018
+  doi: 10.1103/PhysRevB.97.195105
+
+- type: journal-article
+  authors:
+    - L. E. Hatcher
+    - J. M. Skelton
+    - M. R. Warren
+    - C. Stubbs
+    - E. L. da Silva
+    - P. R. Raithby
+  title: "Monitoring Dynamic Photo-switching in Metastable Linkage Isomers: A Crystallographic Kinetic Study of [Pd(Bu<sub>4</sub>dien)NO<sub>2</sub>]BPh<sub>4</sub>"
+  journal: "Physical Chemistry Chemical Physics"
+  volume: 20
+  pages: 5874-5886
+  year: 2018
+  doi: 10.1039/C7CP05422J
+
+- type: journal-article
+  authors:
+    - D. W. Davies
+    - K. T. Butler
+    - J. M. Skelton
+    - C. Xie
+    - A. R. Oganov
+    - A. Walsh
+  title: "Computer-aided design of metal chalcohalide semiconductors: from chemical composition to crystal structure"
+  journal: "Chemical Science"
+  volume: 9
+  pages: 1022-1030
+  year: 2018
+  doi: 10.1039/C7SC03961A
+
+- type: journal-article
+  authors:
+    - M. J. Bryant
+    - J. M. Skelton
+    - L. E. Hatcher
+    - C. Stubbs
+    - E. Madrid
+    - A. R. Pallipurath
+    - L. H. Thomas
+    - C. H. Woodall
+    - J. Christensen
+    - S. Fuertes
+    - T. P. Robinson
+    - C. M. Beavers
+    - S. J. Teat
+    - M. R. Warren
+    - F. Pradaux-Caggiano
+    - A. Walsh
+    - F. Marken
+    - D. R. Carbery
+    - S. C. Parker
+    - N. B. McKeown
+    - R. Malpass-Evans
+    - M. Carta
+    - P. R. Raithby
+  title: "A rapidly-reversible absorptive and emissive vapochromic Pt(II) pincer-based chemical sensors"
+  journal: "Nature Communications"
+  volume: 8
+  pages: 1800
+  year: 2017
+  doi: 10.1038/s41467-017-01941-2
+
+- type: journal-article
+  authors:
+    - D. Zhao
+    - J. M. Skelton
+    - H. Hu
+    - C. La-o-vorakiat
+    - J.-X. Zhu
+    - R. A. Marcus
+    - M.-E. Michel-Beyerle
+    - Y. M. Lam
+    - A. Walsh
+    - E. E. M. Chia
+  title: "Low-frequency optical phonon modes and carrier mobility in the halide perovskite CH<sub>3</sub>NH<sub>3</sub>PbBr<sub>3</sub> using terahertz time-domain spectroscopy"
+  journal: "Applied Physics Letters"
+  volume: 111
+  article_number: 201903
+  year: 2017
+  doi: 10.1063/1.4993524
+
+- type: journal-article
+  authors:
+    - R. Yang
+    - J. M. Skelton
+    - E. L. da Silva
+    - J. M. Frost
+    - A. Walsh
+  title: "Spontaneous Octahedral Tilting in the Cubic Inorganic Caesium Halide Perovskites CsSnX<sub>3</sub> and CsPbX<sub>3</sub> (X = F, Cl, Br, I)"
+  journal: "The Journal of Physical Chemistry Letters"
+  volume: 8
+  issue: 19
+  pages: 4720-4726
+  year: 2017
+  doi: 10.1021/acs.jpclett.7b02423
+  arxiv: 1708.00499
+
+- type: journal-article
+  authors:
+    - Y. Saito
+    - Y. Sutou
+    - P. Fons
+    - S. Shindo
+    - X. Kozina
+    - J. M. Skelton
+    - A. V. Kolobov
+    - K. Kobayashi
+  title: "Electronic structure of transition-metal based Cu<sub>2</sub>GeTe<sub>3</sub> phase change material: Revealing the key role of Cu d electrons"
+  journal: "Chemistry of Materials"
+  volume: 29
+  issue: 17
+  pages: 7440-7449
+  year: 2017
+  doi: 10.1021/acs.chemmater.7b02436
+
+- type: journal-article
+  authors:
+    - A. J. Clough
+    - J. M. Skelton
+    - C. A. Downes
+    - A. De la Rosa
+    - J. W. Yoo
+    - A. Walsh
+    - B. C. Melot
+    - S. C. Marinescu
+  title: "Metallic Conductivity in a Two-Dimensional Cobalt Dithiolene Metal-Organic Framework"
+  journal: "Journal of the American Chemical Society"
+  volume: 139
+  issue: 31
+  pages: 10863-10867
+  year: 2017
+  doi: 10.1021/jacs.7b05742
+
+- type: journal-article
+  authors:
+    - W. J. Gee
+    - K. Robertson
+    - J. M. Skelton
+  title: "Anion...&pi; Interactions and Metastability: Structural Transformations in a Silver-Pyrazine Network"
+  journal: "European Journal of Inorganic Chemistry"
+  volume: 2017
+  issue: 19
+  pages: 2628-2636
+  year: 2017
+  doi: 10.1002/ejic.201700505
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - L. A. Burton
+    - A. J. Jackson
+    - F. Oba
+    - S. C. Parker
+    - A. Walsh
+  title: "Lattice dynamics of the tin sulphides SnS<sub>2</sub>, SnS and Sn<sub>2</sub>S<sub>3</sub>: vibrational spectra and thermal transport"
+  journal: "Physical Chemistry Chemical Physics"
+  volume: 19
+  pages: 12452-12465
+  year: 2017
+  doi: 10.1039/C7CP01680H
+
+- type: journal-article
+  authors:
+    - J. V. Knichal
+    - W. J. Gee
+    - C. A. Cameron
+    - J. M. Skelton
+    - K. J. Gagnon
+    - S. J. Teat
+    - C. C. Wilson
+    - P. R. Raithby
+    - A. D. Burrows
+  title: "Exploring Structure-Property Relationships of Silver 4-(Phenylethynyl)pyridine Complexes"
+  journal: "European Journal of Inorganic Chemistry"
+  volume: 2017
+  issue: 13
+  pages: 1855-1867
+  year: 2017
+  doi: 10.1002/ejic.201601298
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - L. A. Burton
+    - F. Oba
+    - A. Walsh
+  title: "Metastable cubic tin sulfide: A novel phonon-stable chiral semiconductor"
+  journal: "APL Materials"
+  volume: 5
+  issue: 3
+  article_number: 036101
+  year: 2017
+  doi: 10.1063/1.4977868
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - L. A. Burton
+    - F. Oba
+    - A. Walsh
+  title: "Chemical and Lattice Stability of the Tin Sulfides"
+  journal: "The Journal of Physical Chemistry C"
+  volume: 121
+  issue: 12
+  pages: 6446-6454
+  year: 2017
+  doi: 10.1021/acs.jpcc.6b12581
+  arxiv: 1703.00361
+
+- type: journal-article
+  authors:
+    - L. D. Whalley
+    - J. M. Skelton
+    - J. M. Frost
+    - A. Walsh
+  title: "Phonon anharmonicity, lifetimes and thermal transport in CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> from many-body perturbation theory"
+  journal: "Physical Review B"
+  volume: 94
+  issue: 22
+  article_number: 220301(R)
+  year: 2016
+  doi: 10.1103/PhysRevB.94.220301
+  arxiv: 1609.00825
+
+- type: journal-article
+  authors:
+    - D. Loke
+    - J. M. Skelton
+    - T. C. Chong
+    - S. R. Elliott
+  title: "Design Of A Nanoscale, CMOS-Integrable, Thermal-Guiding Structure For Boolean-Logic And Neuromorphic Computation"
+  journal: "ACS Applied Materials & Interfaces"
+  volume: 8
+  issue: 50
+  pages: 34530-34536
+  year: 2016
+  doi: 10.1021/acsami.6b10667
+
+- type: journal-article
+  authors:
+    - R. Al-Balushi
+    - A. Haque
+    - M. Jayapal
+    - M. Al-Suti
+    - J. Husband
+    - M. Khan
+    - J. Skelton
+    - K. Molloy
+    - P. Raithby
+  title: "Impact of the Alkyne Substitution Pattern and Metallation on the Photoisomerization of Azobenzene-Based Platinum(II) Diynes and Polyynes"
+  journal: "Inorganic Chemistry"
+  volume: 55
+  issue: 21
+  pages: 10955-10967
+  year: 2016
+  doi: 10.1021/acs.inorgchem.6b01509
+
+- type: journal-article
+  authors:
+    - K. T. Butler
+    - A. J. Jackson
+    - D. W. Davies
+    - A. Morris
+    - J. M. Frost
+    - J. M. Skelton
+    - A. Walsh
+  title: "Computer Screening of All Inorganic Materials"
+  journal: "Chem"
+  volume: 1
+  pages: 617-627
+  year: 2016
+  doi: 10.1016/j.chempr.2016.09.010
+
+- type: journal-article
+  authors:
+    - J. K. Bristow
+    - J. M. Skelton
+    - K. L. Svane
+    - A. Walsh
+    - J. D. Gale
+  title: "A general forcefield for accurate phonon properties of metal-organic frameworks"
+  journal: "Physical Chemistry Chemical Physics"
+  volume: 18
+  pages: 29316-29329
+  year: 2016
+  doi: 10.1039/C6CP05106E
+  arxiv: 1607.07285
+
+- type: journal-article
+  authors:
+    - A. N. Beecher
+    - O. E. Semonin
+    - J. M. Skelton
+    - J. M. Frost
+    - M. W. Terban
+    - H. Zhai
+    - A. Alatas
+    - J. S. Owen
+    - A. Walsh
+    - S. J. L. Billinge
+  title: "Direct Observation of Dynamic Symmetry Breaking above Room Temperature in Methylammonium Lead Iodide Perovskite"
+  journal: "ACS Energy Letters"
+  volume: 1
+  issue: 4
+  pages: 880-887
+  year: 2016
+  doi: 10.1021/acsenergylett.6b00381
+  arxiv: 1606.09267
+
+- type: journal-article
+  authors:
+    - C. H. Woodall
+    - J. Christensen
+    - J. M. Skelton
+    - L. E. Hatcher
+    - A. Parlett
+    - P. R. Raithby
+    - A. Walsh
+    - S. C. Parker
+    - C. M. Beavers
+    - S. J. Teat
+    - M. Intissar
+    - C. Reber
+    - D. R. Allan
+  title: "Observation of a re-entrant phase transition in the molecular complex tris(&mu;<sub>2</sub>-3,5-diisopropyl-1,2,4-triazolato-&kappa;<sup>2</sup>N<sup>1</sup>:N<sup>2</sup>)tri-gold(I) under high pressure"
+  journal: "IUCrJ"
+  volume: 3
+  issue: 5
+  pages: 367-376
+  year: 2016
+  doi: 10.1107/S2052252516013129
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - L. A. Burton
+    - S. C. Parker
+    - A. Walsh
+    - C.-E. Kim
+    - A. Soon
+    - J. Buckeridge
+    - A. A. Sokol
+    - C. R. A. Catlow
+    - A. Togo
+    - I. Tanaka
+  title: "Anharmonicity in the High-Temperature <i>Cmcm</i> Phase of SnSe: Soft Modes and Three-Phonon Interactions"
+  journal: "Physical Review Letters"
+  volume: 117
+  article_number: 075502
+  year: 2016
+  doi: 10.1103/PhysRevLett.117.075502
+  arxiv: 1602.03762
+
+- type: journal-article
+  authors:
+    - T. Shibuya
+    - J. M. Skelton
+    - A. J. Jackson
+    - K. Yasuoka
+    - A. Togo
+    - I. Tanaka
+    - A. Walsh
+  title: "Suppression of lattice thermal conductivity by mass-conserving cation mutation in multi-component semiconductors"
+  journal: "APL Materials"
+  volume: 4
+  article_number: 104809
+  year: 2016
+  doi: 10.1063/1.4955401
+  arxiv: 1606.04914
+
+- type: journal-article
+  authors:
+    - A. M. A. Leguy
+    - A. R. Go&ntilde;i
+    - J. M. Frost
+    - J. Skelton
+    - F. Brivio
+    - X. Rodr&iacute;guez-Mart&iacute;nez
+    - O. J. Weber
+    - A. Pallipurath
+    - M. I. Alonso
+    - M. Campoy-Quiles
+    - M. T. Weller
+    - J. Nelson
+    - A. Walsh
+    - P. R. F. Barnes
+  title: "Dynamic disorder, phonon lifetimes, and the assignment of modes to the vibrational spectra of methylammonium lead halide perovskites"
+  journal: "Physical Chemistry Chemical Physics"
+  volume: 18
+  pages: 27051-27066
+  year: 2016
+  doi: 10.1039/C6CP03474H
+  arxiv: 1606.01841
+
+- type: journal-article
+  authors:
+    - R. Al-Balushi
+    - A. Haque
+    - M. Jayapal
+    - M. K. Al-Suti
+    - J. Husband
+    - M. S. Khan
+    - O. F. Koentjoro
+    - K. C. Molloy
+    - J. M. Skelton
+    - P. R. Raithby
+  title: "Experimental and Theoretical Investigation for Level of Conjugation in Carbazole-based Precursors and their Mono-, Di- and Polynuclear Pt(II) Complexes"
+  journal: "Inorganic Chemistry"
+  volume: 55
+  issue: 13
+  pages: 6465-6480
+  year: 2016
+  doi: 10.1021/acs.inorgchem.6b00523
+
+- type: journal-article
+  authors:
+    - T. Whittles
+    - L. Burton
+    - J. Skelton
+    - A. Walsh
+    - T. Veal
+    - V. Dhanak
+  title: "Band Alignments, Valence Bands and Core Levels in the Tin Sulfides SnS, SnS<sub>2</sub> and Sn<sub>2</sub>S<sub>3</sub>: Experiment and Theory"
+  journal: "Chemistry of Materials"
+  volume: 28
+  issue: 11
+  pages: 3718-3726
+  year: 2016
+  doi: 10.1021/acs.chemmater.6b00397
+
+- type: journal-article
+  authors:
+    - J. Bristow
+    - K. Svane
+    - D. Tiana
+    - J. Skelton
+    - J. Gale
+    - A. Walsh
+  title: "Free Energy of Ligand Removal in the Metal-Organic Framework UiO-66"
+  journal: "The Journal of Physical Chemistry C"
+  volume: 120
+  issue: 17
+  pages: 9276-9281
+  year: 2016
+  doi: 10.1021/acs.jpcc.6b01659
+  arxiv: 1602.06130
+
+- type: journal-article
+  authors:
+    - K. T. Butler
+    - J. M. Frost
+    - J. M. Skelton
+    - K. L. Svane
+    - A. Walsh
+  title: "Computational Materials Design of Crystalline Solids"
+  journal: "Chemical Society Reviews"
+  volume: 45
+  pages: 6138-6146
+  year: 2016
+  doi: 10.1039/C5CS00841G
+
+- type: journal-article
+  authors:
+    - A. Pallipurath
+    - J. Skelton
+    - P. Ricciardi
+    - S. Elliott
+  title: "Estimation of semiconductor-like pigment concentrations in paint mixtures and their differentiation from paint layers using first-derivative reflectance spectra"
+  journal: "Talanta"
+  volume: 154
+  pages: 63-72
+  year: 2016
+  doi: 10.1016/j.talanta.2016.03.052
+
+- type: journal-article
+  authors:
+    - L. A. Burton
+    - T. J. Whittles
+    - D. Hesp
+    - W. M. Linhart
+    - J. M. Skelton
+    - B. Hou
+    - R. F. Webster
+    - G. O'Dowd
+    - C. Reece
+    - D. Cherns
+    - D. J. Fermin
+    - T. D. Veal
+    - V. R. Dhanak
+    - A. Walsh
+  title: "Electronic and optical properties of single crystal SnS<sub>2</sub>: an earth-abundant disulfide photocatalyst"
+  journal: "Journal of Materials Chemistry A"
+  volume: 4
+  pages: 1312-1318
+  year: 2016
+  doi: 10.1039/C5TA08214E
+
+- type: journal-article
+  authors:
+    - A. J. Jackson
+    - J. M. Skelton
+    - C. H. Hendon
+    - K. T. Butler
+    - A. Walsh
+  title: "Crystal structure optimisation using an auxiliary equation of state"
+  journal: "The Journal of Chemical Physics"
+  volume: 143
+  article_number: 184101
+  year: 2015
+  doi: 10.1063/1.4934716
+  arxiv: 1507.08815
+
+- type: journal-article
+  authors:
+    - F. Brivio
+    - J. M. Frost
+    - J. M. Skelton
+    - A. J. Jackson
+    - O. J. Weber
+    - M. T. Weller
+    - A. R. Go&ntilde;i
+    - A. M. A. Leguy
+    - P. R. F. Barnes
+    - A. Walsh
+  title: "Lattice dynamics and vibrational spectra of the orthorhombic, tetragonal and cubic phases of methylammonium lead iodide"
+  journal: "Physical Review B"
+  volume: 92
+  article_number: 144308
+  year: 2015
+  doi: 10.1103/PhysRevB.92.144308
+  arxiv: 1504.07508
+
+- type: journal-article
+  authors:
+    - C. E. Kim
+    - J. Skelton
+    - A. Walsh
+    - A. Soon
+  title: "Solid-state chemistry of glassy antimony oxides"
+  journal: "Journal of Materials Chemistry C"
+  volume: 3
+  pages: 11349-11356
+  year: 2015
+  doi: 10.1039/C5TC02191J
+  arxiv: 1509.08192
+
+- type: journal-article
+  authors:
+    - A. R. Pallipurath
+    - J. M. Skelton
+    - A. Delori
+    - C. Duffy
+    - A. Erxleben
+    - W. Jones
+  title: "Crystalline adducts of the Lawsone molecule (2-hydroxy-1,4-naphthaquinone): optical properties and computational modelling"
+  journal: "CrystEngComm"
+  volume: 17
+  pages: 7684-7692
+  year: 2015
+  doi: 10.1039/C5CE01644D
+
+- type: journal-article
+  authors:
+    - A. R. Pallipurath
+    - J. M. Skelton
+    - M. Warren
+    - N. Kamali
+    - P. McArdle
+    - A. Erxleben
+  title: "Sulfamerazine: Understanding the influence of slip-planes in polymorphic phase-transformation through X-ray crystallographic studies and <i>ab initio</i> lattice dynamics"
+  journal: "Molecular Pharmaceutics"
+  volume: 12
+  pages: 3735-3748
+  year: 2015
+  doi: 10.1021/acs.molpharmaceut.5b00504
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - D. Tiana
+    - S. C. Parker
+    - A. Togo
+    - I. Tanaka
+    - A. Walsh
+  title: "Influence of the exchange-correlation functional on the quasi-harmonic lattice dynamics of II-VI semiconductors"
+  journal: "The Journal of Chemical Physics"
+  volume: 143
+  article_number: 064710
+  year: 2015
+  doi: 10.1063/1.4928058
+
+- type: journal-article
+  authors:
+    - A. Pallipurath
+    - J. Skelton
+    - S. Bucklow
+    - S. Elliott
+  title: "A chemometric study of ageing in lead-based paints"
+  journal: "Talanta"
+  volume: 144
+  pages: 977-985
+  year: 2015
+  doi: 10.1016/j.talanta.2015.07.037
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - D. Loke
+    - T. H. Lee
+    - S. R. Elliott
+  title: "<i>Ab Initio</i> Molecular-Dynamics Simulation of Neuromorphic Computing in Phase-Change Memory Materials"
+  journal: "ACS Applied Materials & Interfaces"
+  volume: 7
+  issue: 26
+  pages: 14223-14230
+  year: 2015
+  doi: 10.1021/acsami.5b01825
+
+- type: journal-article
+  authors:
+    - E. L. da Silva
+    - J. M. Skelton
+    - S. C. Parker
+    - A. Walsh
+  title: "Phase stability and transformations in the halide perovskite CsSnI<sub>3</sub>"
+  journal: "Physical Review B"
+  volume: 91
+  article_number: 144107
+  year: 2015
+  doi: 10.1103/PhysRevB.91.144107
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - A. J. Jackson
+    - M. Dimitrievska
+    - S. K. Wallace
+    - A. Walsh
+  title: "Vibrational spectra and lattice thermal conductivity of kesterite-structured Cu<sub>2</sub>ZnSnS<sub>4</sub> and Cu<sub>2</sub>ZnSnSe<sub>4</sub>"
+  journal: "APL Materials"
+  volume: 3
+  article_number: 041102
+  year: 2015
+  doi: 10.1063/1.4917044
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - R. Crespo-Otero
+    - L. E. Hatcher
+    - S. C. Parker
+    - P. R. Raithby
+    - A. Walsh
+  title: "Energetics, thermal isomerisation and photochemistry of the linkage-isomer system [Ni(Et<sub>4</sub>dien)(η<sup>2</sup>]-O,ON)(η<sup>1</sup>-NO<sub>2</sub>)]"
+  journal: "CrystEngComm"
+  volume: 17
+  pages: 383-394
+  year: 2015
+  doi: 10.1039/C4CE01411A
+
+- type: conference-proceedings
+  authors:
+    - M. Zanni
+    - Jemmis E. D.
+    - S. Aravamudhan
+    - A. Pallipurath
+    - E. Arunan
+    - C. Schnedermann
+    - A. K. Mishra
+    - M. Warren
+    - J. D. Hirst
+    - F. John
+    - R. Pal
+    - J. R. Helliwell
+    - K. Moirangthem
+    - S. Chakraborty
+    - A. G. Dijkstra
+    - P. R. Chowdhury
+    - K. Ghiggino
+    - R. J. D. Miller
+    - S. Meech
+    - H. Medhi
+    - M. Hariharan
+    - F. Ariese
+    - A. Edwards
+    - A. R. Mallia
+    - S. Umapathy
+    - M. M. Nielsen
+    - N. Hunt
+    - Z.-Y. Tian
+    - J. Skelton
+    - G. Sankar
+    - D. Goswami
+  title: "Time and Space resolved Methods: general discussion"
+  journal: "Faraday Discussions"
+  volume: 177
+  pages: 263-292
+  year: 2015
+  doi: 10.1039/C5FD90017D
+
+- type: conference-proceedings
+  authors:
+    - K. Dhoke
+    - M. Zanni
+    - U. Harbola
+    - R. K. Venkatraman
+    - E. Arunan
+    - K.-C. Lin
+    - A. Nenov
+    - J. Skelton
+    - R. J. D. Miller
+    - J. D. Hirst
+    - V. Aquilanti
+    - J. R. Helliwell
+    - S. Keshavamurthy
+    - S. Ramesh
+    - M. Ashfold
+    - A. Pallipurath
+    - P. R. Chowdhury
+    - S. Mukhopadhyay
+    - Jemmis E. D.
+    - H. Medhi
+    - D. Goswami
+    - P. Halder
+    - W. Junge
+    - M. Hariharan
+    - S. K. Singh
+    - S. Umapathy
+    - A. Lakshmannam
+    - M. M. Nielsen
+    - S. Aravamudhan
+    - V. Deckert
+    - K. Ghiggino
+    - K. Tominaga
+    - A. Edwards
+  title: "Dynamics of chemical bond: general discussion"
+  journal: "Faraday Discussions"
+  volume: 177
+  pages: 121-154
+  year: 2015
+  doi: 10.1039/C5FD90016F
+
+- type: conference-proceedings
+  authors:
+    - J. M. Skelton
+    - E. L. da Silva
+    - R. Crespo-Otero
+    - L. E. Hatcher
+    - P. R. Raithby
+    - S. C. Parker
+    - A. Walsh
+  title: "Electronic excitations in molecular solids: bridging theory and experiment"
+  journal: "Faraday Discussions"
+  volume: 177
+  pages: 181-202
+  year: 2015
+  doi: 10.1039/C4FD00168K
+
+- type: book-chapter
+  authors:
+    - J. M. Skelton
+    - T. H. Lee
+    - S. R. Elliott
+  title: "<i>Ab Initio</i> Molecular-Dynamics Simulations of Doped Phase-Change Materials"
+  book_title: "Molecular Dynamics Simulations of Disordered Materials: From Network Glasses to Phase-Change Memory Alloys"
+  editors:
+    - C. Massobrio
+    - J. Du
+    - M. Bernasconi
+    - P. S. Salmon
+  series: "Springer Series in Materials Science"
+  volume: 215
+  year: 2015
+  publisher: Springer
+  publication_place: Switzerland
+  doi: 10.1007/978-3-319-15675-0_16
+  isbn:
+    - type: print
+      number: 978-3-319-15675-3
+    - type: online
+      number: 978-3-319-15675-0
+
+- type: journal-article
+  authors:
+    - R. J. P. Driscoll
+    - D. Wolverson
+    - J. M. Mitchels
+    - J. M. Skelton
+    - S. C. Parker
+    - M. Molinari
+    - I. R. Khan
+    - D. Geeson
+    - G. Allen
+  title: "A Raman spectroscopic study of uranyl minerals from Cornwall, UK"
+  journal: "RSC Advances"
+  volume: 4
+  pages: 59137-59149
+  year: 2014
+  doi: 10.1039/C4RA09361E
+
+- type: journal-article
+  authors:
+    - D. Loke
+    - J. M. Skelton
+    - W. J. Wang
+    - T. H. Lee
+    - R. Zhao
+    - T. C. Chong
+    - S. R. Elliott
+  title: "Ultrafast phase-change logic device driven by melting processes"
+  journal: "Proceedings of the National Academy of Sciences of the United States of America"
+  volume: 111
+  issue: 37
+  pages: 13272-13277
+  year: 2014
+  doi: 10.1073/pnas.1407633111
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - A. R. Pallipurath
+    - T. H. Lee
+    - S. R. Elliott
+  title: "Atomistic origin of the enhanced crystallisation speed and n-type conductivity in Bi-doped Ge-Sb-Te phase-change materials"
+  journal: "Advanced Functional Materials"
+  volume: 24
+  issue: 46
+  pages: 7291-7300
+  year: 2014
+  doi: 10.1002/adfm.201401202
+
+- type: journal-article
+  authors:
+    - A. R. Pallipurath
+    - R. V. Vofely
+    - J. Skelton
+    - P. Ricciardi
+    - S. Bucklow
+    - S. R. Elliott
+  title: "Estimating the concentrations of pigments and binders in lead-based paints using FT-Raman spectroscopy and principal component analysis"
+  journal: "Journal of Raman Spectroscopy"
+  volume: 45
+  issue: 11-12
+  pages: 1272-1278
+  year: 2014
+  doi: 10.1002/jrs.4525
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - S. C. Parker
+    - A. Togo
+    - I. Tanaka
+    - A. Walsh
+  title: "Thermal physics of the lead chalcogenides PbS, PbSe, and PbTe from first principles"
+  journal: "Physical Review B"
+  volume: 89
+  article_number: 205203
+  year: 2014
+  doi: 10.1103/PhysRevB.89.205203
+  arxiv: 1405.6290
+
+- type: journal-article
+  authors:
+    - A. R. Pallipurath
+    - O. Nicoletti
+    - J. M. Skelton
+    - S. Mahajan
+    - P. A. Midgley
+    - S. R. Elliott
+  title: "Surfactant-free coating of thiols on gold nanoparticles using sonochemistry: A study of competing processes"
+  journal: "Ultrasonics Sonochemistry"
+  volume: 21
+  pages: 1886-1892
+  year: 2014
+  doi: 10.1016/j.ultsonch.2014.03.014
+
+- type: journal-article
+  authors:
+    - D. Loke
+    - J. M. Skelton
+    - L. T. Law
+    - W. J. Wang
+    - M. H. Li
+    - W. D. Song
+    - T. H. Lee
+    - S. R. Elliott
+  title: "Guest-Cage Atomic Interactions in a Clathrate-Based Phase-Change Material"
+  journal: "Advanced Materials"
+  volume: 26
+  pages: 1725-1730
+  year: 2014
+  doi: 10.1002/adma.201304199
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - K. Kobayashi
+    - Y. Sutou
+    - S. R. Elliott
+  title: "Origin of the unusual reflectance and density contrasts in the phase-change material Cu<sub>2</sub>GeTe<sub>3</sub>"
+  journal: "Applied Physics Letters"
+  volume: 102
+  article_number: 224105
+  year: 2013
+  doi: 10.1063/1.4809598
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - S. R. Elliott
+  title: "<i>In silico</i> optimization of phase-change materials for digital memories: a survey of first-row transition-metal dopants for Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub>"
+  journal: "Journal of Physics: Condensed Matter"
+  volume: 25
+  issue: 20
+  article_number: 205801
+  year: 2013
+  doi: 10.1088/0953-8984/25/20/205801
+
+- type: journal-article
+  authors:
+    - A. Pallipurath
+    - J. Skelton
+    - P. Ricciardi
+    - S. Bucklow
+    - S. Elliott
+  title: "Multivariate analysis of combined Raman and fibre-optic reflectance spectra for the identification of binder materials in simulated medieval paints"
+  journal: "Journal of Raman Spectroscopy"
+  volume: 44
+  pages: 866-874
+  year: 2013
+  doi: 10.1002/jrs.4291
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - D. Loke
+    - T. H. Lee
+    - S. R. Elliott
+  title: "Structural insights into the formation and evolution of amorphous phase-change materials"
+  journal: "Physica Status Solidi B"
+  volume: 250
+  issue: 5
+  pages: 968-975
+  year: 2013
+  doi: 10.1002/pssb.201248563
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - D. Loke
+    - T. H. Lee
+    - S. R. Elliott
+  title: "Understanding the multistate SET process in Ge-Sb-Te-based phase-change memory"
+  journal: "Journal of Applied Physics"
+  volume: 112
+  article_number: 064901
+  year: 2012
+  doi: 10.1063/1.4748961
+
+- type: journal-article
+  authors:
+    - J. M. Skelton
+    - T. H. Lee
+    - S. R. Elliott
+  title: "Structural, dynamical, and electronic properties of transition metal-doped Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub> phase-change materials simulated by <i>ab initio</i> molecular dynamics"
+  journal: "Applied Physics Letters"
+  volume: 101
+  article_number: 024106
+  year: 2012
+  doi: 10.1063/1.4736577

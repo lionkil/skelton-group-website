@@ -1,0 +1,43 @@
+<section class="fp-carousel" aria-labelledby="featured-publications-title" data-featured-publications>
+  <div class="fp-slides">
+    {% for feature in site.data.featured_publications %}
+    {% assign paper = site.data.publications | where: 'sort_order', feature.publication | first %}
+    {% assign paper_doi = paper.doi | default: feature.doi %}
+    <article class="fp-slide" aria-labelledby="featured-paper-{{ feature.publication }}">
+      <h3 id="featured-paper-{{ feature.publication }}">{{ feature.heading | escape }}</h3>
+      <p class="fp-author">{{ paper.authors | first | escape }} et al. – {{ paper.year }} – {% if paper.type == 'preprint' %}ChemRxiv{% else %}{{ paper.journal | escape }}{% endif %}</p>
+      <figure class="fp-figure">
+        <a class="fp-image-link" href="{{ feature.image | relative_url }}" target="_blank" rel="noopener" aria-label="View figure for {{ paper.title | escape }} at full size (opens in a new tab)">
+          <img src="{{ feature.image | relative_url }}" alt="{{ feature.alt | escape }}" width="{{ feature.width }}" height="{{ feature.height }}" loading="lazy">
+        </a>
+        <figcaption>
+          <details class="h2-caption">
+            <summary>{{ feature.caption_title | escape }}</summary>
+            <div><p>{{ feature.caption | escape }}</p></div>
+          </details>
+        </figcaption>
+      </figure>
+      <p class="fp-summary">{{ feature.summary | escape }}</p>
+      <div class="fp-footer">
+        <a class="fp-paper-link" href="https://doi.org/{{ paper_doi }}" target="_blank" rel="noopener noreferrer" aria-label="Read paper (opens in a new tab)">Read paper <span aria-hidden="true">↗</span></a>
+        <details class="fp-reference h2-caption">
+          <summary>Full citation</summary>
+          <div>
+      <p class="fp-citation">
+        {% for author in paper.authors %}{% unless forloop.first %}{% if forloop.last %} and {% else %}, {% endif %}{% endunless %}{{ author | escape }}{% endfor %},
+        “<a href="https://doi.org/{{ paper_doi }}">{{ paper.title | escape }}</a>”,
+        {% if paper.type == 'preprint' %}<em>ChemRxiv</em> ({{ paper.year }}).{% else %}<em>{{ paper.journal | escape }}</em> <strong>{{ paper.volume }}</strong>{% if paper.issue %} ({{ paper.issue }}){% endif %}, {{ paper.pages | default: paper.article_number }} ({{ paper.year }}).{% endif %}
+        DOI: <a href="https://doi.org/{{ paper_doi }}">{{ paper_doi }}</a>.
+      </p>
+          </div>
+        </details>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+  <div class="fp-controls" role="group" aria-label="Choose a publication" hidden>
+    {% for feature in site.data.featured_publications %}
+    <button type="button" data-slide-index="{{ forloop.index0 }}" aria-label="Show publication {{ forloop.index }}: {{ feature.heading | escape }}" aria-pressed="{% if forloop.first %}true{% else %}false{% endif %}"><span aria-hidden="true"></span></button>
+    {% endfor %}
+  </div>
+</section>
