@@ -55,6 +55,10 @@ themes:
         status: Y2
         photo: ""
         bio: ""
+      - name: Emaan Nadeem
+        status: Y1
+        photo: ""
+        bio: ""
   - name: Molecular solids
     id: molecular-solids
     members:
@@ -97,6 +101,10 @@ themes:
           He previously obtained a first-class degree in Physics from the University of Dundee. 
 
           Outside of physics and chemistry, Jonny’s interests include philosophy, playing games, and travelling and exploring new places.
+      - name: Rhys Constantine
+        role: MChem student
+        photo: ""
+        bio: ""
 
 # Add confirmed current roles and career updates to these biographies.
 past_members:

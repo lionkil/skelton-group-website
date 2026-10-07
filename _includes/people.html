@@ -7,7 +7,7 @@
   <section class="pm-group" aria-label="Group members">
     <div class="pm-group-members">
       {% for member in site.data.people.group %}
-      {% include person-card.html member=member %}
+      {% include person-card.html member=member show_email=true %}
       {% endfor %}
     </div>
   </section>
@@ -19,11 +19,25 @@
         <span class="pm-node" aria-hidden="true"></span>
         <p class="pm-theme-index">Research theme</p>
         <h3 id="{{ theme.id }}">{{ theme.name | escape }}</h3>
-        <p class="pm-theme-count">{{ theme.members.size }} PhD researchers</p>
+        {% assign phd_count = 0 %}
+        {% assign mchem_count = 0 %}
+        {% for member in theme.members %}
+          {% if member.role == 'MChem student' %}
+            {% assign mchem_count = mchem_count | plus: 1 %}
+          {% else %}
+            {% assign phd_count = phd_count | plus: 1 %}
+          {% endif %}
+        {% endfor %}
+        <p class="pm-theme-count">
+          {{ phd_count }} PhD researcher{% unless phd_count == 1 %}s{% endunless %}
+          {% if mchem_count > 0 %}
+          <br>{{ mchem_count }} MChem student{% unless mchem_count == 1 %}s{% endunless %}
+          {% endif %}
+        </p>
       </header>
       <div class="pm-theme-members">
         {% for member in theme.members %}
-        {% include person-card.html member=member %}
+        {% include person-card.html member=member show_email=true %}
         {% endfor %}
       </div>
     </section>

@@ -172,6 +172,9 @@
 .people-map .pm-bio p + p { margin-top: 12px; }
 .people-map .pm-bio-heading { margin: 0 0 10px; color: var(--pm-ink); font-size: 14px; font-weight: 600; letter-spacing: 0; }
 .pm-bio-empty { font-style: italic; color: var(--pm-muted); }
+.people-map .pm-email { margin-top: 14px; font-size: 13px; }
+.people-map .pm-email a { color: #9a9a9a; text-decoration: underline; text-underline-offset: 2px; }
+.people-map .pm-email a:hover { color: #6f6f6f; }
 .pm-alumni { margin-top: 56px; padding-top: 32px; border-top: 1px solid #dddddd; }
 .pm-alumni-heading { margin-bottom: 24px; }
 .people-map .pm-alumni-heading h2 { margin: 0 0 8px; font-size: 26px; letter-spacing: -.6px; }

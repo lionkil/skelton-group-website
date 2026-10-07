@@ -25,5 +25,10 @@
     {% elsif include.hide_empty_bio != true %}
     <p class="pm-bio-empty">Biography coming soon.</p>
     {% endif %}
+    {% if include.show_email == true %}
+    {% assign email_name = member.name | remove_first: 'Dr ' | replace: ' ', '.' | replace: 'ç', 'c' | replace: 'Ç', 'C' | downcase %}
+    {% assign email_address = email_name | append: '@manchester.ac.uk' %}
+    <p class="pm-email">Email: <a href="mailto:{{ email_address }}">{{ email_address }}</a></p>
+    {% endif %}
   </div>
 </details>
